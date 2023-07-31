@@ -15,7 +15,7 @@ public class PhoneGenerator {
         int codigoOperador = 6 + random.nextInt(2); // Genera 6 o 7
 
         // Generar los 7 dígitos restantes del número local
-        int numeroLocal = random.nextInt(9000000) + 1000000;
+        int numeroLocal = random.nextInt(90000000) + 10000000;
 
         // Formatear el número de teléfono
         return String.format("%d%d", codigoOperador, numeroLocal);
@@ -34,7 +34,7 @@ public class PhoneGenerator {
         int codigoArea = primerDigitoArea * 100 + random.nextInt(100);
 
         // Generar los 7 dígitos restantes del número local
-        int numeroLocal = random.nextInt(9000000) + 1000000;
+        int numeroLocal = random.nextInt(900000) + 100000;
 
         // Formatear el número de teléfono
         return String.format("%d%d", codigoArea, numeroLocal);
@@ -43,7 +43,7 @@ public class PhoneGenerator {
     public static void main(String[] args) {
         // Ejemplo de uso
         for (int i = 0; i < 5; i++) {
-            String numeroTelefonoAleatorio = generarNumeroTelefonoFijo();
+            String numeroTelefonoAleatorio = generarNumeroTelefonoMovil();
             System.out.println("Número de teléfono móvil de España aleatorio " + (i + 1) + ": " + numeroTelefonoAleatorio);
         }
     }
