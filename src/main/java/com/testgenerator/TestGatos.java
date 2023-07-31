@@ -14,7 +14,7 @@ public class TestGatos {
         
     }
 
-    public void ejecutar(){
+    public String ejecutar(){
         try (Playwright playwright = Playwright.create()) {
             String dni = DniGenerator.generateValidDNI();
             String nombre = NameGenerator.generarNombreAleatorio();
@@ -29,10 +29,10 @@ public class TestGatos {
             Browser browser = playwright.webkit().launch(new BrowserType.LaunchOptions()
                     .setHeadless(true));
             BrowserContext context = browser.newContext(new Browser.NewContextOptions().setIgnoreHTTPSErrors(true));
-            context.tracing().start(new Tracing.StartOptions()
-                    // .setScreenshots(true)
-                    // .setSnapshots(true)
-                    .setSources(true));
+            // context.tracing().start(new Tracing.StartOptions()
+            //         // .setScreenshots(true)
+            //         // .setSnapshots(true)
+            //         .setSources(true));
             context.setDefaultNavigationTimeout(5000);
             context.setDefaultTimeout(10000);
             Page page = context.newPage();
@@ -124,17 +124,16 @@ public class TestGatos {
             page.getByRole(AriaRole.COMBOBOX, new Page.GetByRoleOptions().setName("Medios de pago"))
                     .selectOption("1: EFEC");
             page.getByRole(AriaRole.BUTTON, new Page.GetByRoleOptions().setName("Emitir")).click();
+            page.locator("#stateDependantBackgroundCIERRE00 > div").click();
             assertThat(page.locator("#stateDependantBackgroundCIERRE00 > div"))
                     .containsText("correctamente");
             Instant end = Instant.now();
             long elapsedTimeInMilliseconds = end.toEpochMilli() - start.toEpochMilli();
-            context.tracing().stop(new Tracing.StopOptions()
-                    .setPath(Paths.get("trace.zip")));
             context.close();
             browser.close();
-
-            System.out.println("Tiempo de ejecución: " + elapsedTimeInMilliseconds + " milisegundos");
             playwright.close();
+            return "Tiempo de ejecución WEBKIT: " + elapsedTimeInMilliseconds + " milisegundos";
+            
         }
     }
 }
