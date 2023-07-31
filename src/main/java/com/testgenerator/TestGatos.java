@@ -11,6 +11,10 @@ import java.util.regex.Pattern;
 
 public class TestGatos {
     public static void main(String[] args) {
+        
+    }
+
+    public void ejecutar(){
         try (Playwright playwright = Playwright.create()) {
             String dni = DniGenerator.generateValidDNI();
             String nombre = NameGenerator.generarNombreAleatorio();
@@ -20,9 +24,10 @@ public class TestGatos {
             String telefono1 = PhoneGenerator.generarNumeroTelefonoMovil();
             String telefono2 = PhoneGenerator.generarNumeroTelefonoFijo();
             String raza = RazaGatoGenerator.obtenerRazaGatoAleatoria();
+            String mail = EmailGenerator.generateRandomEmail();
             Instant start = Instant.now();
-            Browser browser = playwright.chromium().launch(new BrowserType.LaunchOptions()
-                    .setHeadless(false));
+            Browser browser = playwright.webkit().launch(new BrowserType.LaunchOptions()
+                    .setHeadless(true));
             BrowserContext context = browser.newContext(new Browser.NewContextOptions().setIgnoreHTTPSErrors(true));
             context.tracing().start(new Tracing.StartOptions()
                     // .setScreenshots(true)
@@ -81,7 +86,7 @@ public class TestGatos {
                     .selectOption("1: CA");
             page.getByRole(AriaRole.COMBOBOX, new Page.GetByRoleOptions().setName("Sexo")).selectOption("1: H");
             page.getByLabel("Email").click();
-            page.getByLabel("Email").fill("mail@mail.com");
+            page.getByLabel("Email").fill(mail);
             page.getByLabel("Teléfono Móvil").click();
             page.getByLabel("Teléfono Móvil").fill(telefono1);
             page.getByLabel("Teléfono Fijo").fill(telefono2);
@@ -129,6 +134,7 @@ public class TestGatos {
             browser.close();
 
             System.out.println("Tiempo de ejecución: " + elapsedTimeInMilliseconds + " milisegundos");
+            playwright.close();
         }
     }
 }

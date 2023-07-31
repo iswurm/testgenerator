@@ -55,7 +55,7 @@ public class Example {
                         String apel1 = NameGenerator.generarNombreAleatorio();
                         String apel2 = NameGenerator.generarNombreAleatorio();
                         Instant start = Instant.now();
-                        Browser browser = playwright.chromium().launch(new BrowserType.LaunchOptions()
+                        Browser browser = playwright.webkit().launch(new BrowserType.LaunchOptions()
                                         .setHeadless(true));
 
                         BrowserContext context = browser
