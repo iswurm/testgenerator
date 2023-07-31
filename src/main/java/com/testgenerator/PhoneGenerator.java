@@ -21,10 +21,29 @@ public class PhoneGenerator {
         return String.format("%d%d", codigoOperador, numeroLocal);
     }
 
+    public static String generarNumeroTelefonoFijo() {
+        Random random = new Random();
+
+        // Código de país para España
+        int codigoPais = 34;
+
+        // Generar el primer dígito del código de área (entre 8 y 9)
+        int primerDigitoArea = 8 + random.nextInt(2); // 8 o 9
+
+        // Generar los 2 dígitos restantes del código de área (entre 00 y 99)
+        int codigoArea = primerDigitoArea * 100 + random.nextInt(100);
+
+        // Generar los 7 dígitos restantes del número local
+        int numeroLocal = random.nextInt(9000000) + 1000000;
+
+        // Formatear el número de teléfono
+        return String.format("%d%d", codigoArea, numeroLocal);
+    }
+
     public static void main(String[] args) {
         // Ejemplo de uso
         for (int i = 0; i < 5; i++) {
-            String numeroTelefonoAleatorio = generarNumeroTelefonoMovil();
+            String numeroTelefonoAleatorio = generarNumeroTelefonoFijo();
             System.out.println("Número de teléfono móvil de España aleatorio " + (i + 1) + ": " + numeroTelefonoAleatorio);
         }
     }
