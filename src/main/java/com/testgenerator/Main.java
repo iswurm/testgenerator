@@ -15,9 +15,12 @@ import java.time.Instant;
 public class Main {
     static Example testPerros = new Example();
     static Test2 test2 = new Test2();
+    static TestCaballos TestCaballos = new TestCaballos();
+
     public static void main(String[] args) {
-        //testPerros.ejecutar();
+        // testPerros.ejecutar();
         // test2.ejecutar();
+        TestCaballos.ejecutar();
     }
 
 }
