@@ -56,7 +56,7 @@ public class TestGatos {
             page.getByRole(AriaRole.BUTTON, new Page.GetByRoleOptions().setName("Continuar")).click();
             page.waitForTimeout(200);
             page.getByLabel("Nombre").click();
-            page.getByLabel("Nombre").fill("Test");
+            page.getByLabel("Nombre").fill(nombreMascota);
             page.getByLabel("Fecha de nacimiento").click();
             page.getByLabel("Fecha de nacimiento").fill("24/02/2000");
             page.getByLabel("Fecha de nacimiento").press("Tab");
