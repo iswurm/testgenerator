@@ -41,17 +41,17 @@ public class Main {
 
         Thread hiloGatos = new Thread(() -> {
             String resultadoGatos = testGatos.ejecutar();
-            escribirEnArchivo("resultados.txt", resultadoGatos);
+            // escribirEnArchivo("resultados.txt", resultadoGatos);
             System.out.print(resultadoGatos);
         });
         Thread hiloGatosChromium = new Thread(() -> {
             String resultadoGatosChromium = testGatosChromium.ejecutar();
-            escribirEnArchivo("resultados.txt", resultadoGatosChromium);
+            // escribirEnArchivo("resultados.txt", resultadoGatosChromium);
             System.out.print(resultadoGatosChromium);
         });
         Thread hiloGatosFirefox = new Thread(() -> {
             String resultadoGatosFirefox = testGatosFirefox.ejecutar();
-            escribirEnArchivo("resultados.txt", resultadoGatosFirefox);
+            // escribirEnArchivo("resultados.txt", resultadoGatosFirefox);
             System.out.print(resultadoGatosFirefox);
         });
 

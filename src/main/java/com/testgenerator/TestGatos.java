@@ -134,6 +134,8 @@ public class TestGatos {
             playwright.close();
             return "Tiempo de ejecución WEBKIT: " + elapsedTimeInMilliseconds + " milisegundos";
             
+        }catch(PlaywrightException e){
+                return e.getMessage().toString();
         }
     }
 }

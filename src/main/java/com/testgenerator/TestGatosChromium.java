@@ -134,6 +134,8 @@ public class TestGatosChromium {
             playwright.close();
             return "Tiempo de ejecución CHROMIUM: " + elapsedTimeInMilliseconds + " milisegundos";
             
+        }catch(PlaywrightException e){
+                return e.getMessage().toString();
         }
     }
 }

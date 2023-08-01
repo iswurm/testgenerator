@@ -1963,4 +1963,12 @@ Tiempo de ejecución WEBKIT: 32293 milisegundos
 Ejecución número 999:
 Tiempo de ejecución WEBKIT: 33464 milisegundos
 Ejecución número 1000:
-Tiempo de ejecución WEBKIT: 32545 milisegundos
+Tiempo de ejecución WEBKIT: 32545 milisegundosTiempo de ejecución WEBKIT: 36335 milisegundos
+Tiempo de ejecución CHROMIUM: 22915 milisegundos
+Tiempo de ejecución WEBKIT: 33717 milisegundos
+Tiempo de ejecución CHROMIUM: 21702 milisegundos
+Tiempo de ejecución WEBKIT: 30840 milisegundos
+Tiempo de ejecución WEBKIT: 32580 milisegundos
+Tiempo de ejecución WEBKIT: 32172 milisegundos
+
+Tiempo de ejecución WEBKIT: 33497 milisegundos

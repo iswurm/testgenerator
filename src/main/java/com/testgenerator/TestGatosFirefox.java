@@ -134,6 +134,8 @@ public class TestGatosFirefox {
             playwright.close();
             return "Tiempo de ejecución FIREFOX: " + elapsedTimeInMilliseconds + " milisegundos";
             
+        }catch(PlaywrightException e){
+                return e.getMessage().toString();
         }
     }
 }
