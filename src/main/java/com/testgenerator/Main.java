@@ -22,39 +22,42 @@ public class Main {
     static Example testPerros = new Example();
     static Test2 test2 = new Test2();
     static TestCaballos testCaballos = new TestCaballos();
-    static TestGatos testGatos = new TestGatos();
+    static TestGatos2 testGatos2 = new TestGatos2();
     private static final Object lock = new Object();
 
     public static void main(String[] args) {
-        // Creamos los hilos para cada método
-        Thread hiloPerros = new Thread(() -> {
-            String resultadoPerros = testPerros.ejecutar();
-            escribirEnArchivo("resultados.txt", resultadoPerros);
-        });
+        // // Creamos los hilos para cada método
+        // Thread hiloPerros = new Thread(() -> {
+        //     String resultadoPerros = testPerros.ejecutar();
+        //     escribirEnArchivo("resultados.txt", resultadoPerros);
+        // });
 
-        Thread hiloCaballos = new Thread(() -> {
-            String resultadoCaballos = testCaballos.ejecutar();
-            escribirEnArchivo("resultados.txt", resultadoCaballos);
-        });
+        // Thread hiloCaballos = new Thread(() -> {
+        //     String resultadoCaballos = testCaballos.ejecutar();
+        //     escribirEnArchivo("resultados.txt", resultadoCaballos);
+        // });
 
-        Thread hiloGatos = new Thread(() -> {
-            String resultadoGatos = testGatos.ejecutar();
-            escribirEnArchivo("resultados.txt", resultadoGatos);
-        });
+        // Thread hiloGatos = new Thread(() -> {
+        //     String resultadoGatos = testGatos.ejecutar();
+        //     escribirEnArchivo("resultados.txt", resultadoGatos);
+        // });
 
-        // Iniciamos los hilos
-        hiloPerros.start();
-        hiloCaballos.start();
-        hiloGatos.start();
+        // // Iniciamos los hilos
+        // hiloPerros.start();
+        // hiloCaballos.start();
+        // hiloGatos.start();
 
-        // Esperamos a que todos los hilos terminen antes de continuar
-        try {
-            hiloPerros.join();
-            hiloCaballos.join();
-            hiloGatos.join();
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
+        // // Esperamos a que todos los hilos terminen antes de continuar
+        // try {
+        //     hiloPerros.join();
+        //     hiloCaballos.join();
+        //     hiloGatos.join();
+        // } catch (InterruptedException e) {
+        //     e.printStackTrace();
+        // }
+
+
+        testGatos2.ejecutar();
     }
 
     public static void escribirEnArchivo(String nombreArchivo, String contenido) {
