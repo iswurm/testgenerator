@@ -1,0 +1,1966 @@
+Ejecución número 1:
+Tiempo de ejecución WEBKIT: 33337 milisegundos
+Ejecución número 2:
+Tiempo de ejecución CHROMIUM: 25456 milisegundos
+Tiempo de ejecución WEBKIT: 34765 milisegundos
+Ejecución número 3:
+Tiempo de ejecución WEBKIT: 30508 milisegundos
+Ejecución número 4:
+Tiempo de ejecución WEBKIT: 31967 milisegundos
+Ejecución número 5:
+Tiempo de ejecución WEBKIT: 31994 milisegundos
+Ejecución número 6:
+Tiempo de ejecución WEBKIT: 31973 milisegundos
+Ejecución número 7:
+Tiempo de ejecución WEBKIT: 32650 milisegundos
+Ejecución número 8:
+Tiempo de ejecución WEBKIT: 32972 milisegundos
+Ejecución número 9:
+Tiempo de ejecución WEBKIT: 30557 milisegundos
+Ejecución número 10:
+Tiempo de ejecución WEBKIT: 31051 milisegundos
+Ejecución número 11:
+Tiempo de ejecución WEBKIT: 32669 milisegundos
+Ejecución número 12:
+Tiempo de ejecución WEBKIT: 30805 milisegundos
+Ejecución número 13:
+Tiempo de ejecución WEBKIT: 30357 milisegundos
+Ejecución número 14:
+Tiempo de ejecución WEBKIT: 31742 milisegundos
+Ejecución número 15:
+Tiempo de ejecución CHROMIUM: 23154 milisegundos
+Tiempo de ejecución WEBKIT: 29941 milisegundos
+Ejecución número 16:
+Tiempo de ejecución WEBKIT: 31439 milisegundos
+Ejecución número 17:
+Ejecución número 18:
+Tiempo de ejecución WEBKIT: 30604 milisegundos
+Ejecución número 19:
+Tiempo de ejecución WEBKIT: 31733 milisegundos
+Ejecución número 20:
+Tiempo de ejecución WEBKIT: 30818 milisegundos
+Ejecución número 21:
+Ejecución número 22:
+Ejecución número 23:
+Tiempo de ejecución WEBKIT: 33822 milisegundos
+Ejecución número 24:
+Tiempo de ejecución WEBKIT: 33763 milisegundos
+Ejecución número 25:
+Tiempo de ejecución CHROMIUM: 22485 milisegundos
+Tiempo de ejecución WEBKIT: 30790 milisegundos
+Ejecución número 26:
+Tiempo de ejecución WEBKIT: 33585 milisegundos
+Ejecución número 27:
+Tiempo de ejecución CHROMIUM: 23710 milisegundos
+Tiempo de ejecución WEBKIT: 32839 milisegundos
+Ejecución número 28:
+Tiempo de ejecución WEBKIT: 31911 milisegundos
+Ejecución número 29:
+Tiempo de ejecución WEBKIT: 29727 milisegundos
+Ejecución número 30:
+Tiempo de ejecución WEBKIT: 30758 milisegundos
+Ejecución número 31:
+Tiempo de ejecución WEBKIT: 33114 milisegundos
+Ejecución número 32:
+Ejecución número 33:
+Tiempo de ejecución CHROMIUM: 22711 milisegundos
+Tiempo de ejecución WEBKIT: 32848 milisegundos
+Ejecución número 34:
+Tiempo de ejecución WEBKIT: 32577 milisegundos
+Ejecución número 35:
+Tiempo de ejecución WEBKIT: 30106 milisegundos
+Ejecución número 36:
+Tiempo de ejecución WEBKIT: 29606 milisegundos
+Ejecución número 37:
+Tiempo de ejecución WEBKIT: 32493 milisegundos
+Ejecución número 38:
+Tiempo de ejecución WEBKIT: 32185 milisegundos
+Ejecución número 39:
+Tiempo de ejecución WEBKIT: 32706 milisegundos
+Ejecución número 40:
+Tiempo de ejecución WEBKIT: 29170 milisegundos
+Ejecución número 41:
+Tiempo de ejecución WEBKIT: 32905 milisegundos
+Ejecución número 42:
+Tiempo de ejecución WEBKIT: 32814 milisegundos
+Ejecución número 43:
+Tiempo de ejecución WEBKIT: 30407 milisegundos
+Ejecución número 44:
+Tiempo de ejecución CHROMIUM: 22490 milisegundos
+Tiempo de ejecución WEBKIT: 33981 milisegundos
+Ejecución número 45:
+Tiempo de ejecución WEBKIT: 32235 milisegundos
+Ejecución número 46:
+Tiempo de ejecución WEBKIT: 31596 milisegundos
+Ejecución número 47:
+Tiempo de ejecución WEBKIT: 31296 milisegundos
+Ejecución número 48:
+Ejecución número 49:
+Tiempo de ejecución WEBKIT: 31305 milisegundos
+Ejecución número 50:
+Tiempo de ejecución WEBKIT: 30224 milisegundos
+Ejecución número 51:
+Ejecución número 52:
+Tiempo de ejecución WEBKIT: 31969 milisegundos
+Ejecución número 53:
+Tiempo de ejecución WEBKIT: 31095 milisegundos
+Ejecución número 54:
+Ejecución número 55:
+Tiempo de ejecución WEBKIT: 33751 milisegundos
+Ejecución número 56:
+Tiempo de ejecución WEBKIT: 32881 milisegundos
+Ejecución número 57:
+Tiempo de ejecución WEBKIT: 31195 milisegundos
+Ejecución número 58:
+Tiempo de ejecución CHROMIUM: 22569 milisegundos
+Tiempo de ejecución WEBKIT: 31678 milisegundos
+Ejecución número 59:
+Tiempo de ejecución WEBKIT: 32228 milisegundos
+Ejecución número 60:
+Tiempo de ejecución WEBKIT: 29154 milisegundos
+Ejecución número 61:
+Tiempo de ejecución WEBKIT: 30968 milisegundos
+Ejecución número 62:
+Ejecución número 63:
+Tiempo de ejecución WEBKIT: 29389 milisegundos
+Ejecución número 64:
+Ejecución número 65:
+Tiempo de ejecución WEBKIT: 31879 milisegundos
+Ejecución número 66:
+Tiempo de ejecución WEBKIT: 33193 milisegundos
+Ejecución número 67:
+Tiempo de ejecución WEBKIT: 33103 milisegundos
+Ejecución número 68:
+Ejecución número 69:
+Tiempo de ejecución WEBKIT: 29207 milisegundos
+Ejecución número 70:
+Tiempo de ejecución CHROMIUM: 22922 milisegundos
+Tiempo de ejecución WEBKIT: 33210 milisegundos
+Ejecución número 71:
+Tiempo de ejecución WEBKIT: 31177 milisegundos
+Ejecución número 72:
+Tiempo de ejecución WEBKIT: 32483 milisegundos
+Ejecución número 73:
+Tiempo de ejecución WEBKIT: 33012 milisegundos
+Ejecución número 74:
+Tiempo de ejecución WEBKIT: 32846 milisegundos
+Ejecución número 75:
+Ejecución número 76:
+Ejecución número 77:
+Ejecución número 78:
+Tiempo de ejecución WEBKIT: 31062 milisegundos
+Ejecución número 79:
+Tiempo de ejecución WEBKIT: 30744 milisegundos
+Ejecución número 80:
+Tiempo de ejecución WEBKIT: 31779 milisegundos
+Ejecución número 81:
+Tiempo de ejecución WEBKIT: 30936 milisegundos
+Ejecución número 82:
+Tiempo de ejecución WEBKIT: 31255 milisegundos
+Ejecución número 83:
+Tiempo de ejecución WEBKIT: 33247 milisegundos
+Ejecución número 84:
+Ejecución número 85:
+Ejecución número 86:
+Tiempo de ejecución WEBKIT: 32270 milisegundos
+Ejecución número 87:
+Tiempo de ejecución WEBKIT: 30226 milisegundos
+Ejecución número 88:
+Tiempo de ejecución WEBKIT: 33403 milisegundos
+Ejecución número 89:
+Tiempo de ejecución WEBKIT: 31601 milisegundos
+Ejecución número 90:
+Ejecución número 91:
+Tiempo de ejecución WEBKIT: 33392 milisegundos
+Ejecución número 92:
+Tiempo de ejecución WEBKIT: 30612 milisegundos
+Ejecución número 93:
+Tiempo de ejecución WEBKIT: 30159 milisegundos
+Ejecución número 94:
+Tiempo de ejecución WEBKIT: 29327 milisegundos
+Ejecución número 95:
+Tiempo de ejecución WEBKIT: 31563 milisegundos
+Ejecución número 96:
+Tiempo de ejecución WEBKIT: 31049 milisegundos
+Ejecución número 97:
+Tiempo de ejecución WEBKIT: 31827 milisegundos
+Ejecución número 98:
+Tiempo de ejecución WEBKIT: 33275 milisegundos
+Ejecución número 99:
+Tiempo de ejecución WEBKIT: 34416 milisegundos
+Ejecución número 100:
+Tiempo de ejecución WEBKIT: 34112 milisegundos
+Ejecución número 101:
+Tiempo de ejecución WEBKIT: 30498 milisegundos
+Ejecución número 102:
+Tiempo de ejecución WEBKIT: 33444 milisegundos
+Ejecución número 103:
+Tiempo de ejecución CHROMIUM: 21720 milisegundos
+Tiempo de ejecución WEBKIT: 31659 milisegundos
+Ejecución número 104:
+Tiempo de ejecución WEBKIT: 32013 milisegundos
+Ejecución número 105:
+Tiempo de ejecución WEBKIT: 30768 milisegundos
+Ejecución número 106:
+Tiempo de ejecución WEBKIT: 32107 milisegundos
+Ejecución número 107:
+Tiempo de ejecución WEBKIT: 31835 milisegundos
+Ejecución número 108:
+Tiempo de ejecución WEBKIT: 31302 milisegundos
+Ejecución número 109:
+Tiempo de ejecución WEBKIT: 31301 milisegundos
+Ejecución número 110:
+Tiempo de ejecución WEBKIT: 30594 milisegundos
+Ejecución número 111:
+Tiempo de ejecución CHROMIUM: 23131 milisegundos
+Tiempo de ejecución WEBKIT: 33646 milisegundos
+Ejecución número 112:
+Tiempo de ejecución WEBKIT: 33431 milisegundos
+Ejecución número 113:
+Tiempo de ejecución WEBKIT: 32907 milisegundos
+Ejecución número 114:
+Tiempo de ejecución WEBKIT: 33830 milisegundos
+Ejecución número 115:
+Tiempo de ejecución WEBKIT: 32803 milisegundos
+Ejecución número 116:
+Tiempo de ejecución CHROMIUM: 25542 milisegundos
+Tiempo de ejecución WEBKIT: 33515 milisegundos
+Ejecución número 117:
+Tiempo de ejecución WEBKIT: 32127 milisegundos
+Ejecución número 118:
+Tiempo de ejecución WEBKIT: 33221 milisegundos
+Ejecución número 119:
+Tiempo de ejecución CHROMIUM: 22260 milisegundos
+Ejecución número 120:
+Tiempo de ejecución CHROMIUM: 22022 milisegundos
+Tiempo de ejecución WEBKIT: 32734 milisegundos
+Ejecución número 121:
+Tiempo de ejecución WEBKIT: 34167 milisegundos
+Ejecución número 122:
+Tiempo de ejecución WEBKIT: 29091 milisegundos
+Ejecución número 123:
+Tiempo de ejecución WEBKIT: 31481 milisegundos
+Ejecución número 124:
+Tiempo de ejecución WEBKIT: 31318 milisegundos
+Ejecución número 125:
+Tiempo de ejecución WEBKIT: 34898 milisegundos
+Ejecución número 126:
+Tiempo de ejecución WEBKIT: 30140 milisegundos
+Ejecución número 127:
+Ejecución número 128:
+Tiempo de ejecución WEBKIT: 30025 milisegundos
+Ejecución número 129:
+Tiempo de ejecución WEBKIT: 31495 milisegundos
+Ejecución número 130:
+Tiempo de ejecución WEBKIT: 33703 milisegundos
+Ejecución número 131:
+Tiempo de ejecución WEBKIT: 32766 milisegundos
+Ejecución número 132:
+Tiempo de ejecución WEBKIT: 28844 milisegundos
+Ejecución número 133:
+Tiempo de ejecución WEBKIT: 32637 milisegundos
+Ejecución número 134:
+Ejecución número 135:
+Tiempo de ejecución WEBKIT: 33466 milisegundos
+Ejecución número 136:
+Tiempo de ejecución WEBKIT: 32494 milisegundos
+Ejecución número 137:
+Ejecución número 138:
+Tiempo de ejecución WEBKIT: 33885 milisegundos
+Ejecución número 139:
+Tiempo de ejecución WEBKIT: 31222 milisegundos
+Ejecución número 140:
+Tiempo de ejecución WEBKIT: 33347 milisegundos
+Ejecución número 141:
+Ejecución número 142:
+Tiempo de ejecución WEBKIT: 30368 milisegundos
+Ejecución número 143:
+Tiempo de ejecución WEBKIT: 30446 milisegundos
+Ejecución número 144:
+Tiempo de ejecución WEBKIT: 30840 milisegundos
+Ejecución número 145:
+Tiempo de ejecución WEBKIT: 30029 milisegundos
+Ejecución número 146:
+Tiempo de ejecución CHROMIUM: 27308 milisegundos
+Tiempo de ejecución WEBKIT: 35647 milisegundos
+Ejecución número 147:
+Ejecución número 148:
+Tiempo de ejecución WEBKIT: 30361 milisegundos
+Ejecución número 149:
+Tiempo de ejecución WEBKIT: 32737 milisegundos
+Ejecución número 150:
+Tiempo de ejecución WEBKIT: 32410 milisegundos
+Ejecución número 151:
+Tiempo de ejecución WEBKIT: 32090 milisegundos
+Ejecución número 152:
+Tiempo de ejecución WEBKIT: 32922 milisegundos
+Ejecución número 153:
+Tiempo de ejecución WEBKIT: 28990 milisegundos
+Ejecución número 154:
+Tiempo de ejecución WEBKIT: 29520 milisegundos
+Ejecución número 155:
+Tiempo de ejecución CHROMIUM: 22753 milisegundos
+Tiempo de ejecución WEBKIT: 32286 milisegundos
+Ejecución número 156:
+Tiempo de ejecución WEBKIT: 29764 milisegundos
+Ejecución número 157:
+Tiempo de ejecución WEBKIT: 31603 milisegundos
+Ejecución número 158:
+Ejecución número 159:
+Tiempo de ejecución WEBKIT: 31834 milisegundos
+Ejecución número 160:
+Tiempo de ejecución WEBKIT: 31683 milisegundos
+Ejecución número 161:
+Tiempo de ejecución WEBKIT: 34081 milisegundos
+Ejecución número 162:
+Tiempo de ejecución CHROMIUM: 22148 milisegundos
+Tiempo de ejecución WEBKIT: 30726 milisegundos
+Ejecución número 163:
+Tiempo de ejecución WEBKIT: 32592 milisegundos
+Ejecución número 164:
+Tiempo de ejecución WEBKIT: 29999 milisegundos
+Ejecución número 165:
+Tiempo de ejecución WEBKIT: 30483 milisegundos
+Ejecución número 166:
+Tiempo de ejecución WEBKIT: 32898 milisegundos
+Ejecución número 167:
+Tiempo de ejecución WEBKIT: 30073 milisegundos
+Ejecución número 168:
+Tiempo de ejecución WEBKIT: 29929 milisegundos
+Ejecución número 169:
+Tiempo de ejecución WEBKIT: 30258 milisegundos
+Ejecución número 170:
+Tiempo de ejecución WEBKIT: 30308 milisegundos
+Ejecución número 171:
+Tiempo de ejecución WEBKIT: 31081 milisegundos
+Ejecución número 172:
+Tiempo de ejecución WEBKIT: 30664 milisegundos
+Ejecución número 173:
+Tiempo de ejecución WEBKIT: 31686 milisegundos
+Ejecución número 174:
+Tiempo de ejecución WEBKIT: 30659 milisegundos
+Ejecución número 175:
+Tiempo de ejecución WEBKIT: 30317 milisegundos
+Ejecución número 176:
+Tiempo de ejecución CHROMIUM: 23509 milisegundos
+Tiempo de ejecución WEBKIT: 34333 milisegundos
+Ejecución número 177:
+Tiempo de ejecución WEBKIT: 30605 milisegundos
+Ejecución número 178:
+Tiempo de ejecución WEBKIT: 33306 milisegundos
+Ejecución número 179:
+Tiempo de ejecución WEBKIT: 31116 milisegundos
+Ejecución número 180:
+Tiempo de ejecución WEBKIT: 31989 milisegundos
+Ejecución número 181:
+Tiempo de ejecución WEBKIT: 31031 milisegundos
+Ejecución número 182:
+Tiempo de ejecución CHROMIUM: 21122 milisegundos
+Tiempo de ejecución WEBKIT: 30749 milisegundos
+Ejecución número 183:
+Tiempo de ejecución WEBKIT: 29387 milisegundos
+Ejecución número 184:
+Tiempo de ejecución CHROMIUM: 22235 milisegundos
+Tiempo de ejecución WEBKIT: 31879 milisegundos
+Ejecución número 185:
+Tiempo de ejecución CHROMIUM: 20807 milisegundos
+Ejecución número 186:
+Ejecución número 187:
+Tiempo de ejecución CHROMIUM: 24473 milisegundos
+Tiempo de ejecución WEBKIT: 33065 milisegundos
+Ejecución número 188:
+Tiempo de ejecución WEBKIT: 31928 milisegundos
+Ejecución número 189:
+Tiempo de ejecución WEBKIT: 31320 milisegundos
+Ejecución número 190:
+Tiempo de ejecución WEBKIT: 31485 milisegundos
+Ejecución número 191:
+Tiempo de ejecución CHROMIUM: 21954 milisegundos
+Tiempo de ejecución WEBKIT: 31857 milisegundos
+Ejecución número 192:
+Tiempo de ejecución WEBKIT: 30610 milisegundos
+Ejecución número 193:
+Tiempo de ejecución WEBKIT: 31982 milisegundos
+Ejecución número 194:
+Tiempo de ejecución WEBKIT: 31572 milisegundos
+Ejecución número 195:
+Tiempo de ejecución WEBKIT: 32251 milisegundos
+Ejecución número 196:
+Tiempo de ejecución WEBKIT: 29318 milisegundos
+Ejecución número 197:
+Tiempo de ejecución WEBKIT: 32093 milisegundos
+Ejecución número 198:
+Tiempo de ejecución WEBKIT: 32278 milisegundos
+Ejecución número 199:
+Tiempo de ejecución WEBKIT: 32349 milisegundos
+Ejecución número 200:
+Tiempo de ejecución WEBKIT: 30636 milisegundos
+Ejecución número 201:
+Tiempo de ejecución WEBKIT: 32964 milisegundos
+Ejecución número 202:
+Ejecución número 203:
+Tiempo de ejecución WEBKIT: 31099 milisegundos
+Ejecución número 204:
+Tiempo de ejecución WEBKIT: 31231 milisegundos
+Ejecución número 205:
+Tiempo de ejecución WEBKIT: 31719 milisegundos
+Ejecución número 206:
+Tiempo de ejecución WEBKIT: 31712 milisegundos
+Ejecución número 207:
+Tiempo de ejecución WEBKIT: 31980 milisegundos
+Ejecución número 208:
+Tiempo de ejecución WEBKIT: 30793 milisegundos
+Ejecución número 209:
+Tiempo de ejecución WEBKIT: 30123 milisegundos
+Ejecución número 210:
+Tiempo de ejecución WEBKIT: 32176 milisegundos
+Ejecución número 211:
+Tiempo de ejecución WEBKIT: 32295 milisegundos
+Ejecución número 212:
+Tiempo de ejecución WEBKIT: 31191 milisegundos
+Ejecución número 213:
+Tiempo de ejecución WEBKIT: 31998 milisegundos
+Ejecución número 214:
+Tiempo de ejecución WEBKIT: 34241 milisegundos
+Ejecución número 215:
+Tiempo de ejecución WEBKIT: 33470 milisegundos
+Ejecución número 216:
+Ejecución número 217:
+Tiempo de ejecución WEBKIT: 31163 milisegundos
+Ejecución número 218:
+Tiempo de ejecución WEBKIT: 31526 milisegundos
+Ejecución número 219:
+Tiempo de ejecución WEBKIT: 32601 milisegundos
+Ejecución número 220:
+Tiempo de ejecución WEBKIT: 31855 milisegundos
+Ejecución número 221:
+Tiempo de ejecución WEBKIT: 32192 milisegundos
+Ejecución número 222:
+Tiempo de ejecución WEBKIT: 32009 milisegundos
+Ejecución número 223:
+Tiempo de ejecución WEBKIT: 32411 milisegundos
+Ejecución número 224:
+Tiempo de ejecución WEBKIT: 29328 milisegundos
+Ejecución número 225:
+Tiempo de ejecución WEBKIT: 31301 milisegundos
+Ejecución número 226:
+Tiempo de ejecución WEBKIT: 32151 milisegundos
+Ejecución número 227:
+Ejecución número 228:
+Tiempo de ejecución WEBKIT: 29913 milisegundos
+Ejecución número 229:
+Tiempo de ejecución WEBKIT: 32762 milisegundos
+Ejecución número 230:
+Tiempo de ejecución WEBKIT: 30464 milisegundos
+Ejecución número 231:
+Tiempo de ejecución WEBKIT: 29826 milisegundos
+Ejecución número 232:
+Tiempo de ejecución WEBKIT: 31263 milisegundos
+Ejecución número 233:
+Tiempo de ejecución WEBKIT: 31441 milisegundos
+Ejecución número 234:
+Tiempo de ejecución WEBKIT: 31410 milisegundos
+Ejecución número 235:
+Tiempo de ejecución WEBKIT: 30067 milisegundos
+Ejecución número 236:
+Tiempo de ejecución WEBKIT: 33539 milisegundos
+Ejecución número 237:
+Tiempo de ejecución WEBKIT: 29769 milisegundos
+Ejecución número 238:
+Tiempo de ejecución CHROMIUM: 20630 milisegundos
+Tiempo de ejecución WEBKIT: 31015 milisegundos
+Ejecución número 239:
+Tiempo de ejecución WEBKIT: 32739 milisegundos
+Ejecución número 240:
+Tiempo de ejecución WEBKIT: 29750 milisegundos
+Ejecución número 241:
+Tiempo de ejecución WEBKIT: 31171 milisegundos
+Ejecución número 242:
+Tiempo de ejecución WEBKIT: 29251 milisegundos
+Ejecución número 243:
+Tiempo de ejecución WEBKIT: 33421 milisegundos
+Ejecución número 244:
+Tiempo de ejecución WEBKIT: 31156 milisegundos
+Ejecución número 245:
+Tiempo de ejecución WEBKIT: 29434 milisegundos
+Ejecución número 246:
+Tiempo de ejecución CHROMIUM: 25187 milisegundos
+Tiempo de ejecución WEBKIT: 35517 milisegundos
+Ejecución número 247:
+Tiempo de ejecución WEBKIT: 34177 milisegundos
+Ejecución número 248:
+Ejecución número 249:
+Tiempo de ejecución WEBKIT: 32484 milisegundos
+Ejecución número 250:
+Tiempo de ejecución WEBKIT: 30053 milisegundos
+Ejecución número 251:
+Tiempo de ejecución WEBKIT: 32212 milisegundos
+Ejecución número 252:
+Tiempo de ejecución WEBKIT: 31591 milisegundos
+Ejecución número 253:
+Tiempo de ejecución WEBKIT: 31610 milisegundos
+Ejecución número 254:
+Tiempo de ejecución WEBKIT: 30618 milisegundos
+Ejecución número 255:
+Tiempo de ejecución WEBKIT: 29566 milisegundos
+Ejecución número 256:
+Tiempo de ejecución WEBKIT: 32440 milisegundos
+Ejecución número 257:
+Tiempo de ejecución WEBKIT: 29966 milisegundos
+Ejecución número 258:
+Tiempo de ejecución WEBKIT: 32155 milisegundos
+Ejecución número 259:
+Tiempo de ejecución WEBKIT: 32827 milisegundos
+Ejecución número 260:
+Tiempo de ejecución WEBKIT: 32304 milisegundos
+Ejecución número 261:
+Tiempo de ejecución WEBKIT: 30578 milisegundos
+Ejecución número 262:
+Tiempo de ejecución WEBKIT: 33200 milisegundos
+Ejecución número 263:
+Tiempo de ejecución WEBKIT: 32378 milisegundos
+Ejecución número 264:
+Ejecución número 265:
+Tiempo de ejecución WEBKIT: 32502 milisegundos
+Ejecución número 266:
+Tiempo de ejecución WEBKIT: 30446 milisegundos
+Ejecución número 267:
+Tiempo de ejecución WEBKIT: 33287 milisegundos
+Ejecución número 268:
+Tiempo de ejecución WEBKIT: 29995 milisegundos
+Ejecución número 269:
+Ejecución número 270:
+Tiempo de ejecución WEBKIT: 34843 milisegundos
+Ejecución número 271:
+Tiempo de ejecución WEBKIT: 30805 milisegundos
+Ejecución número 272:
+Tiempo de ejecución WEBKIT: 31878 milisegundos
+Ejecución número 273:
+Tiempo de ejecución WEBKIT: 32832 milisegundos
+Ejecución número 274:
+Tiempo de ejecución WEBKIT: 31418 milisegundos
+Ejecución número 275:
+Tiempo de ejecución WEBKIT: 32786 milisegundos
+Ejecución número 276:
+Tiempo de ejecución WEBKIT: 32593 milisegundos
+Ejecución número 277:
+Tiempo de ejecución WEBKIT: 31874 milisegundos
+Ejecución número 278:
+Tiempo de ejecución WEBKIT: 31767 milisegundos
+Ejecución número 279:
+Tiempo de ejecución CHROMIUM: 22671 milisegundos
+Tiempo de ejecución WEBKIT: 29748 milisegundos
+Ejecución número 280:
+Tiempo de ejecución WEBKIT: 32575 milisegundos
+Ejecución número 281:
+Tiempo de ejecución WEBKIT: 29485 milisegundos
+Ejecución número 282:
+Tiempo de ejecución CHROMIUM: 21610 milisegundos
+Tiempo de ejecución WEBKIT: 31914 milisegundos
+Ejecución número 283:
+Ejecución número 284:
+Tiempo de ejecución WEBKIT: 33578 milisegundos
+Ejecución número 285:
+Tiempo de ejecución CHROMIUM: 23622 milisegundos
+Tiempo de ejecución WEBKIT: 34595 milisegundos
+Ejecución número 286:
+Tiempo de ejecución WEBKIT: 31528 milisegundos
+Ejecución número 287:
+Tiempo de ejecución CHROMIUM: 21380 milisegundos
+Ejecución número 288:
+Tiempo de ejecución CHROMIUM: 24263 milisegundos
+Tiempo de ejecución WEBKIT: 33579 milisegundos
+Ejecución número 289:
+Tiempo de ejecución WEBKIT: 30008 milisegundos
+Ejecución número 290:
+Tiempo de ejecución WEBKIT: 31141 milisegundos
+Ejecución número 291:
+Ejecución número 292:
+Tiempo de ejecución WEBKIT: 31319 milisegundos
+Ejecución número 293:
+Ejecución número 294:
+Tiempo de ejecución WEBKIT: 30529 milisegundos
+Ejecución número 295:
+Tiempo de ejecución CHROMIUM: 20401 milisegundos
+Tiempo de ejecución WEBKIT: 30908 milisegundos
+Ejecución número 296:
+Tiempo de ejecución WEBKIT: 32215 milisegundos
+Ejecución número 297:
+Tiempo de ejecución WEBKIT: 30137 milisegundos
+Ejecución número 298:
+Tiempo de ejecución WEBKIT: 31624 milisegundos
+Ejecución número 299:
+Tiempo de ejecución WEBKIT: 32076 milisegundos
+Ejecución número 300:
+Tiempo de ejecución WEBKIT: 29477 milisegundos
+Ejecución número 301:
+Tiempo de ejecución WEBKIT: 32900 milisegundos
+Ejecución número 302:
+Tiempo de ejecución WEBKIT: 32480 milisegundos
+Ejecución número 303:
+Tiempo de ejecución CHROMIUM: 24613 milisegundos
+Tiempo de ejecución WEBKIT: 33978 milisegundos
+Ejecución número 304:
+Tiempo de ejecución WEBKIT: 30029 milisegundos
+Ejecución número 305:
+Tiempo de ejecución WEBKIT: 30022 milisegundos
+Ejecución número 306:
+Tiempo de ejecución WEBKIT: 33797 milisegundos
+Ejecución número 307:
+Tiempo de ejecución WEBKIT: 31888 milisegundos
+Ejecución número 308:
+Tiempo de ejecución WEBKIT: 32307 milisegundos
+Ejecución número 309:
+Tiempo de ejecución WEBKIT: 28983 milisegundos
+Ejecución número 310:
+Tiempo de ejecución WEBKIT: 30662 milisegundos
+Ejecución número 311:
+Tiempo de ejecución WEBKIT: 30531 milisegundos
+Ejecución número 312:
+Tiempo de ejecución CHROMIUM: 26404 milisegundos
+Tiempo de ejecución WEBKIT: 36863 milisegundos
+Ejecución número 313:
+Tiempo de ejecución WEBKIT: 30105 milisegundos
+Ejecución número 314:
+Tiempo de ejecución WEBKIT: 31725 milisegundos
+Ejecución número 315:
+Tiempo de ejecución WEBKIT: 29839 milisegundos
+Ejecución número 316:
+Tiempo de ejecución WEBKIT: 31981 milisegundos
+Ejecución número 317:
+Ejecución número 318:
+Tiempo de ejecución WEBKIT: 30923 milisegundos
+Ejecución número 319:
+Tiempo de ejecución WEBKIT: 30041 milisegundos
+Ejecución número 320:
+Tiempo de ejecución WEBKIT: 30347 milisegundos
+Ejecución número 321:
+Tiempo de ejecución WEBKIT: 33103 milisegundos
+Ejecución número 322:
+Tiempo de ejecución WEBKIT: 31937 milisegundos
+Ejecución número 323:
+Tiempo de ejecución WEBKIT: 33947 milisegundos
+Ejecución número 324:
+Tiempo de ejecución WEBKIT: 31683 milisegundos
+Ejecución número 325:
+Tiempo de ejecución WEBKIT: 31205 milisegundos
+Ejecución número 326:
+Tiempo de ejecución WEBKIT: 32175 milisegundos
+Ejecución número 327:
+Tiempo de ejecución WEBKIT: 30128 milisegundos
+Ejecución número 328:
+Tiempo de ejecución WEBKIT: 31137 milisegundos
+Ejecución número 329:
+Tiempo de ejecución WEBKIT: 32628 milisegundos
+Ejecución número 330:
+Tiempo de ejecución WEBKIT: 32514 milisegundos
+Ejecución número 331:
+Tiempo de ejecución WEBKIT: 33719 milisegundos
+Ejecución número 332:
+Tiempo de ejecución WEBKIT: 32329 milisegundos
+Ejecución número 333:
+Tiempo de ejecución WEBKIT: 32554 milisegundos
+Ejecución número 334:
+Tiempo de ejecución CHROMIUM: 21411 milisegundos
+Tiempo de ejecución WEBKIT: 31050 milisegundos
+Ejecución número 335:
+Tiempo de ejecución WEBKIT: 30025 milisegundos
+Ejecución número 336:
+Tiempo de ejecución WEBKIT: 31886 milisegundos
+Ejecución número 337:
+Tiempo de ejecución WEBKIT: 31456 milisegundos
+Ejecución número 338:
+Tiempo de ejecución WEBKIT: 33559 milisegundos
+Ejecución número 339:
+Tiempo de ejecución WEBKIT: 31054 milisegundos
+Ejecución número 340:
+Tiempo de ejecución WEBKIT: 32927 milisegundos
+Ejecución número 341:
+Tiempo de ejecución WEBKIT: 30245 milisegundos
+Ejecución número 342:
+Tiempo de ejecución WEBKIT: 32581 milisegundos
+Ejecución número 343:
+Tiempo de ejecución WEBKIT: 29059 milisegundos
+Ejecución número 344:
+Tiempo de ejecución CHROMIUM: 23894 milisegundos
+Tiempo de ejecución WEBKIT: 32618 milisegundos
+Ejecución número 345:
+Tiempo de ejecución WEBKIT: 32508 milisegundos
+Ejecución número 346:
+Tiempo de ejecución WEBKIT: 30850 milisegundos
+Ejecución número 347:
+Tiempo de ejecución WEBKIT: 35746 milisegundos
+Ejecución número 348:
+Ejecución número 349:
+Tiempo de ejecución WEBKIT: 33386 milisegundos
+Ejecución número 350:
+Tiempo de ejecución WEBKIT: 30119 milisegundos
+Ejecución número 351:
+Tiempo de ejecución WEBKIT: 30005 milisegundos
+Ejecución número 352:
+Tiempo de ejecución WEBKIT: 31038 milisegundos
+Ejecución número 353:
+Tiempo de ejecución WEBKIT: 30305 milisegundos
+Ejecución número 354:
+Tiempo de ejecución WEBKIT: 28923 milisegundos
+Ejecución número 355:
+Tiempo de ejecución WEBKIT: 30954 milisegundos
+Ejecución número 356:
+Ejecución número 357:
+Tiempo de ejecución WEBKIT: 33310 milisegundos
+Ejecución número 358:
+Tiempo de ejecución WEBKIT: 29698 milisegundos
+Ejecución número 359:
+Tiempo de ejecución WEBKIT: 29841 milisegundos
+Ejecución número 360:
+Tiempo de ejecución CHROMIUM: 23161 milisegundos
+Tiempo de ejecución WEBKIT: 32856 milisegundos
+Ejecución número 361:
+Tiempo de ejecución WEBKIT: 33208 milisegundos
+Ejecución número 362:
+Tiempo de ejecución WEBKIT: 31743 milisegundos
+Ejecución número 363:
+Tiempo de ejecución WEBKIT: 31703 milisegundos
+Ejecución número 364:
+Tiempo de ejecución WEBKIT: 30791 milisegundos
+Ejecución número 365:
+Tiempo de ejecución WEBKIT: 31075 milisegundos
+Ejecución número 366:
+Tiempo de ejecución WEBKIT: 33141 milisegundos
+Ejecución número 367:
+Ejecución número 368:
+Tiempo de ejecución WEBKIT: 32616 milisegundos
+Ejecución número 369:
+Tiempo de ejecución WEBKIT: 29958 milisegundos
+Ejecución número 370:
+Tiempo de ejecución WEBKIT: 31513 milisegundos
+Ejecución número 371:
+Tiempo de ejecución WEBKIT: 31490 milisegundos
+Ejecución número 372:
+Tiempo de ejecución WEBKIT: 30686 milisegundos
+Ejecución número 373:
+Tiempo de ejecución WEBKIT: 29603 milisegundos
+Ejecución número 374:
+Tiempo de ejecución WEBKIT: 31349 milisegundos
+Ejecución número 375:
+Tiempo de ejecución WEBKIT: 30322 milisegundos
+Ejecución número 376:
+Tiempo de ejecución WEBKIT: 30800 milisegundos
+Ejecución número 377:
+Tiempo de ejecución WEBKIT: 30551 milisegundos
+Ejecución número 378:
+Tiempo de ejecución WEBKIT: 30202 milisegundos
+Ejecución número 379:
+Tiempo de ejecución WEBKIT: 30571 milisegundos
+Ejecución número 380:
+Tiempo de ejecución WEBKIT: 30925 milisegundos
+Ejecución número 381:
+Tiempo de ejecución WEBKIT: 32379 milisegundos
+Ejecución número 382:
+Tiempo de ejecución WEBKIT: 33792 milisegundos
+Ejecución número 383:
+Tiempo de ejecución WEBKIT: 31198 milisegundos
+Ejecución número 384:
+Tiempo de ejecución WEBKIT: 30114 milisegundos
+Ejecución número 385:
+Tiempo de ejecución WEBKIT: 33799 milisegundos
+Ejecución número 386:
+Ejecución número 387:
+Ejecución número 388:
+Tiempo de ejecución WEBKIT: 29523 milisegundos
+Ejecución número 389:
+Tiempo de ejecución WEBKIT: 30418 milisegundos
+Ejecución número 390:
+Tiempo de ejecución WEBKIT: 31151 milisegundos
+Ejecución número 391:
+Tiempo de ejecución WEBKIT: 31857 milisegundos
+Ejecución número 392:
+Tiempo de ejecución WEBKIT: 33044 milisegundos
+Ejecución número 393:
+Tiempo de ejecución WEBKIT: 30144 milisegundos
+Ejecución número 394:
+Tiempo de ejecución WEBKIT: 31800 milisegundos
+Ejecución número 395:
+Tiempo de ejecución WEBKIT: 32119 milisegundos
+Ejecución número 396:
+Ejecución número 397:
+Tiempo de ejecución WEBKIT: 32601 milisegundos
+Ejecución número 398:
+Tiempo de ejecución WEBKIT: 33912 milisegundos
+Ejecución número 399:
+Tiempo de ejecución WEBKIT: 33619 milisegundos
+Ejecución número 400:
+Tiempo de ejecución WEBKIT: 29779 milisegundos
+Ejecución número 401:
+Tiempo de ejecución WEBKIT: 32447 milisegundos
+Ejecución número 402:
+Tiempo de ejecución WEBKIT: 31152 milisegundos
+Ejecución número 403:
+Tiempo de ejecución CHROMIUM: 24168 milisegundos
+Tiempo de ejecución WEBKIT: 33408 milisegundos
+Ejecución número 404:
+Tiempo de ejecución WEBKIT: 34586 milisegundos
+Ejecución número 405:
+Ejecución número 406:
+Tiempo de ejecución WEBKIT: 31822 milisegundos
+Ejecución número 407:
+Tiempo de ejecución WEBKIT: 31381 milisegundos
+Ejecución número 408:
+Tiempo de ejecución WEBKIT: 30829 milisegundos
+Ejecución número 409:
+Tiempo de ejecución WEBKIT: 32182 milisegundos
+Ejecución número 410:
+Tiempo de ejecución WEBKIT: 30892 milisegundos
+Ejecución número 411:
+Tiempo de ejecución WEBKIT: 29247 milisegundos
+Ejecución número 412:
+Tiempo de ejecución WEBKIT: 31597 milisegundos
+Ejecución número 413:
+Tiempo de ejecución WEBKIT: 31358 milisegundos
+Ejecución número 414:
+Tiempo de ejecución WEBKIT: 32721 milisegundos
+Ejecución número 415:
+Ejecución número 416:
+Tiempo de ejecución WEBKIT: 29921 milisegundos
+Ejecución número 417:
+Ejecución número 418:
+Tiempo de ejecución WEBKIT: 30980 milisegundos
+Ejecución número 419:
+Tiempo de ejecución WEBKIT: 32853 milisegundos
+Ejecución número 420:
+Tiempo de ejecución WEBKIT: 30427 milisegundos
+Ejecución número 421:
+Ejecución número 422:
+Tiempo de ejecución WEBKIT: 32155 milisegundos
+Ejecución número 423:
+Ejecución número 424:
+Tiempo de ejecución WEBKIT: 31952 milisegundos
+Ejecución número 425:
+Tiempo de ejecución WEBKIT: 31793 milisegundos
+Ejecución número 426:
+Tiempo de ejecución WEBKIT: 32380 milisegundos
+Ejecución número 427:
+Ejecución número 428:
+Tiempo de ejecución WEBKIT: 33101 milisegundos
+Ejecución número 429:
+Tiempo de ejecución WEBKIT: 30060 milisegundos
+Ejecución número 430:
+Tiempo de ejecución WEBKIT: 32464 milisegundos
+Ejecución número 431:
+Tiempo de ejecución CHROMIUM: 24234 milisegundos
+Tiempo de ejecución WEBKIT: 33735 milisegundos
+Ejecución número 432:
+Tiempo de ejecución CHROMIUM: 22918 milisegundos
+Tiempo de ejecución WEBKIT: 33856 milisegundos
+Ejecución número 433:
+Tiempo de ejecución WEBKIT: 29295 milisegundos
+Ejecución número 434:
+Tiempo de ejecución WEBKIT: 32063 milisegundos
+Ejecución número 435:
+Ejecución número 436:
+Tiempo de ejecución WEBKIT: 29459 milisegundos
+Ejecución número 437:
+Tiempo de ejecución WEBKIT: 30067 milisegundos
+Ejecución número 438:
+Tiempo de ejecución WEBKIT: 32153 milisegundos
+Ejecución número 439:
+Tiempo de ejecución WEBKIT: 29975 milisegundos
+Ejecución número 440:
+Tiempo de ejecución WEBKIT: 33478 milisegundos
+Ejecución número 441:
+Tiempo de ejecución WEBKIT: 31160 milisegundos
+Ejecución número 442:
+Tiempo de ejecución WEBKIT: 30215 milisegundos
+Ejecución número 443:
+Tiempo de ejecución CHROMIUM: 21415 milisegundos
+Tiempo de ejecución WEBKIT: 30112 milisegundos
+Ejecución número 444:
+Tiempo de ejecución WEBKIT: 30460 milisegundos
+Ejecución número 445:
+Tiempo de ejecución WEBKIT: 32857 milisegundos
+Ejecución número 446:
+Ejecución número 447:
+Tiempo de ejecución WEBKIT: 31806 milisegundos
+Ejecución número 448:
+Tiempo de ejecución WEBKIT: 32787 milisegundos
+Ejecución número 449:
+Tiempo de ejecución WEBKIT: 30303 milisegundos
+Ejecución número 450:
+Tiempo de ejecución WEBKIT: 30850 milisegundos
+Ejecución número 451:
+Tiempo de ejecución WEBKIT: 31707 milisegundos
+Ejecución número 452:
+Tiempo de ejecución CHROMIUM: 23549 milisegundos
+Tiempo de ejecución WEBKIT: 33408 milisegundos
+Ejecución número 453:
+Tiempo de ejecución WEBKIT: 33996 milisegundos
+Ejecución número 454:
+Tiempo de ejecución WEBKIT: 36698 milisegundos
+Ejecución número 455:
+Tiempo de ejecución WEBKIT: 30998 milisegundos
+Ejecución número 456:
+Tiempo de ejecución WEBKIT: 30143 milisegundos
+Ejecución número 457:
+Tiempo de ejecución WEBKIT: 31306 milisegundos
+Ejecución número 458:
+Tiempo de ejecución WEBKIT: 31474 milisegundos
+Ejecución número 459:
+Tiempo de ejecución WEBKIT: 33950 milisegundos
+Ejecución número 460:
+Tiempo de ejecución CHROMIUM: 25022 milisegundos
+Tiempo de ejecución WEBKIT: 35170 milisegundos
+Ejecución número 461:
+Tiempo de ejecución WEBKIT: 32340 milisegundos
+Ejecución número 462:
+Tiempo de ejecución WEBKIT: 30527 milisegundos
+Ejecución número 463:
+Tiempo de ejecución WEBKIT: 30460 milisegundos
+Ejecución número 464:
+Tiempo de ejecución WEBKIT: 30148 milisegundos
+Ejecución número 465:
+Tiempo de ejecución WEBKIT: 32577 milisegundos
+Ejecución número 466:
+Tiempo de ejecución WEBKIT: 29720 milisegundos
+Ejecución número 467:
+Tiempo de ejecución WEBKIT: 30009 milisegundos
+Ejecución número 468:
+Tiempo de ejecución WEBKIT: 32030 milisegundos
+Ejecución número 469:
+Tiempo de ejecución WEBKIT: 31541 milisegundos
+Ejecución número 470:
+Tiempo de ejecución WEBKIT: 29996 milisegundos
+Ejecución número 471:
+Tiempo de ejecución WEBKIT: 31071 milisegundos
+Ejecución número 472:
+Tiempo de ejecución CHROMIUM: 22186 milisegundos
+Ejecución número 473:
+Tiempo de ejecución WEBKIT: 31991 milisegundos
+Ejecución número 474:
+Tiempo de ejecución CHROMIUM: 24697 milisegundos
+Tiempo de ejecución WEBKIT: 34589 milisegundos
+Ejecución número 475:
+Tiempo de ejecución WEBKIT: 32109 milisegundos
+Ejecución número 476:
+Tiempo de ejecución WEBKIT: 31362 milisegundos
+Ejecución número 477:
+Tiempo de ejecución WEBKIT: 30087 milisegundos
+Ejecución número 478:
+Tiempo de ejecución WEBKIT: 29775 milisegundos
+Ejecución número 479:
+Tiempo de ejecución WEBKIT: 32055 milisegundos
+Ejecución número 480:
+Tiempo de ejecución WEBKIT: 29424 milisegundos
+Ejecución número 481:
+Tiempo de ejecución WEBKIT: 30620 milisegundos
+Ejecución número 482:
+Tiempo de ejecución WEBKIT: 31784 milisegundos
+Ejecución número 483:
+Tiempo de ejecución WEBKIT: 30125 milisegundos
+Ejecución número 484:
+Tiempo de ejecución WEBKIT: 31783 milisegundos
+Ejecución número 485:
+Tiempo de ejecución WEBKIT: 30880 milisegundos
+Ejecución número 486:
+Ejecución número 487:
+Ejecución número 488:
+Tiempo de ejecución WEBKIT: 35739 milisegundos
+Ejecución número 489:
+Tiempo de ejecución CHROMIUM: 26888 milisegundos
+Tiempo de ejecución WEBKIT: 36359 milisegundos
+Ejecución número 490:
+Tiempo de ejecución WEBKIT: 30275 milisegundos
+Ejecución número 491:
+Tiempo de ejecución WEBKIT: 30550 milisegundos
+Ejecución número 492:
+Tiempo de ejecución WEBKIT: 31364 milisegundos
+Ejecución número 493:
+Tiempo de ejecución WEBKIT: 30879 milisegundos
+Ejecución número 494:
+Tiempo de ejecución WEBKIT: 30362 milisegundos
+Ejecución número 495:
+Tiempo de ejecución WEBKIT: 34030 milisegundos
+Ejecución número 496:
+Tiempo de ejecución WEBKIT: 32605 milisegundos
+Ejecución número 497:
+Tiempo de ejecución WEBKIT: 32190 milisegundos
+Ejecución número 498:
+Tiempo de ejecución WEBKIT: 30462 milisegundos
+Ejecución número 499:
+Tiempo de ejecución WEBKIT: 33340 milisegundos
+Ejecución número 500:
+Tiempo de ejecución WEBKIT: 31628 milisegundos
+Ejecución número 501:
+Tiempo de ejecución WEBKIT: 30726 milisegundos
+Ejecución número 502:
+Tiempo de ejecución CHROMIUM: 23692 milisegundos
+Tiempo de ejecución WEBKIT: 33469 milisegundos
+Ejecución número 503:
+Tiempo de ejecución WEBKIT: 30768 milisegundos
+Ejecución número 504:
+Tiempo de ejecución WEBKIT: 30321 milisegundos
+Ejecución número 505:
+Tiempo de ejecución WEBKIT: 29845 milisegundos
+Ejecución número 506:
+Tiempo de ejecución WEBKIT: 33258 milisegundos
+Ejecución número 507:
+Tiempo de ejecución WEBKIT: 35002 milisegundos
+Ejecución número 508:
+Tiempo de ejecución WEBKIT: 31384 milisegundos
+Ejecución número 509:
+Tiempo de ejecución WEBKIT: 30774 milisegundos
+Ejecución número 510:
+Tiempo de ejecución CHROMIUM: 21102 milisegundos
+Tiempo de ejecución WEBKIT: 30535 milisegundos
+Ejecución número 511:
+Tiempo de ejecución WEBKIT: 29679 milisegundos
+Ejecución número 512:
+Ejecución número 513:
+Ejecución número 514:
+Tiempo de ejecución CHROMIUM: 21558 milisegundos
+Tiempo de ejecución WEBKIT: 31078 milisegundos
+Ejecución número 515:
+Tiempo de ejecución WEBKIT: 31614 milisegundos
+Ejecución número 516:
+Tiempo de ejecución WEBKIT: 31767 milisegundos
+Ejecución número 517:
+Tiempo de ejecución WEBKIT: 32166 milisegundos
+Ejecución número 518:
+Ejecución número 519:
+Tiempo de ejecución WEBKIT: 31473 milisegundos
+Ejecución número 520:
+Tiempo de ejecución WEBKIT: 32496 milisegundos
+Ejecución número 521:
+Tiempo de ejecución WEBKIT: 32378 milisegundos
+Ejecución número 522:
+Tiempo de ejecución WEBKIT: 31935 milisegundos
+Ejecución número 523:
+Tiempo de ejecución WEBKIT: 33710 milisegundos
+Ejecución número 524:
+Tiempo de ejecución WEBKIT: 32440 milisegundos
+Ejecución número 525:
+Tiempo de ejecución WEBKIT: 32283 milisegundos
+Ejecución número 526:
+Tiempo de ejecución WEBKIT: 32355 milisegundos
+Ejecución número 527:
+Tiempo de ejecución CHROMIUM: 24832 milisegundos
+Tiempo de ejecución WEBKIT: 32822 milisegundos
+Ejecución número 528:
+Ejecución número 529:
+Tiempo de ejecución WEBKIT: 31542 milisegundos
+Ejecución número 530:
+Tiempo de ejecución CHROMIUM: 22513 milisegundos
+Tiempo de ejecución WEBKIT: 30908 milisegundos
+Ejecución número 531:
+Tiempo de ejecución WEBKIT: 30381 milisegundos
+Ejecución número 532:
+Tiempo de ejecución WEBKIT: 32577 milisegundos
+Ejecución número 533:
+Tiempo de ejecución WEBKIT: 32934 milisegundos
+Ejecución número 534:
+Tiempo de ejecución WEBKIT: 32114 milisegundos
+Ejecución número 535:
+Ejecución número 536:
+Tiempo de ejecución WEBKIT: 30467 milisegundos
+Ejecución número 537:
+Tiempo de ejecución WEBKIT: 33177 milisegundos
+Ejecución número 538:
+Tiempo de ejecución WEBKIT: 33411 milisegundos
+Ejecución número 539:
+Tiempo de ejecución WEBKIT: 32444 milisegundos
+Ejecución número 540:
+Tiempo de ejecución WEBKIT: 31240 milisegundos
+Ejecución número 541:
+Tiempo de ejecución WEBKIT: 32899 milisegundos
+Ejecución número 542:
+Tiempo de ejecución WEBKIT: 30591 milisegundos
+Ejecución número 543:
+Tiempo de ejecución WEBKIT: 30168 milisegundos
+Ejecución número 544:
+Tiempo de ejecución WEBKIT: 31019 milisegundos
+Ejecución número 545:
+Tiempo de ejecución WEBKIT: 31272 milisegundos
+Ejecución número 546:
+Tiempo de ejecución WEBKIT: 31899 milisegundos
+Ejecución número 547:
+Tiempo de ejecución CHROMIUM: 22018 milisegundos
+Tiempo de ejecución WEBKIT: 31987 milisegundos
+Ejecución número 548:
+Tiempo de ejecución WEBKIT: 31097 milisegundos
+Ejecución número 549:
+Ejecución número 550:
+Tiempo de ejecución WEBKIT: 29560 milisegundos
+Ejecución número 551:
+Ejecución número 552:
+Tiempo de ejecución WEBKIT: 33948 milisegundos
+Ejecución número 553:
+Tiempo de ejecución WEBKIT: 28661 milisegundos
+Ejecución número 554:
+Ejecución número 555:
+Tiempo de ejecución WEBKIT: 35390 milisegundos
+Ejecución número 556:
+Tiempo de ejecución WEBKIT: 29962 milisegundos
+Ejecución número 557:
+Tiempo de ejecución WEBKIT: 32143 milisegundos
+Ejecución número 558:
+Tiempo de ejecución WEBKIT: 30027 milisegundos
+Ejecución número 559:
+Tiempo de ejecución WEBKIT: 29526 milisegundos
+Ejecución número 560:
+Tiempo de ejecución WEBKIT: 30882 milisegundos
+Ejecución número 561:
+Tiempo de ejecución WEBKIT: 32147 milisegundos
+Ejecución número 562:
+Tiempo de ejecución WEBKIT: 31601 milisegundos
+Ejecución número 563:
+Tiempo de ejecución WEBKIT: 31650 milisegundos
+Ejecución número 564:
+Tiempo de ejecución WEBKIT: 31408 milisegundos
+Ejecución número 565:
+Tiempo de ejecución WEBKIT: 29587 milisegundos
+Ejecución número 566:
+Tiempo de ejecución WEBKIT: 31707 milisegundos
+Ejecución número 567:
+Tiempo de ejecución WEBKIT: 29328 milisegundos
+Ejecución número 568:
+Tiempo de ejecución WEBKIT: 32574 milisegundos
+Ejecución número 569:
+Tiempo de ejecución WEBKIT: 32882 milisegundos
+Ejecución número 570:
+Tiempo de ejecución WEBKIT: 30450 milisegundos
+Ejecución número 571:
+Tiempo de ejecución WEBKIT: 30240 milisegundos
+Ejecución número 572:
+Tiempo de ejecución WEBKIT: 31768 milisegundos
+Ejecución número 573:
+Tiempo de ejecución WEBKIT: 32559 milisegundos
+Ejecución número 574:
+Tiempo de ejecución WEBKIT: 34328 milisegundos
+Ejecución número 575:
+Tiempo de ejecución WEBKIT: 30383 milisegundos
+Ejecución número 576:
+Tiempo de ejecución WEBKIT: 31682 milisegundos
+Ejecución número 577:
+Tiempo de ejecución CHROMIUM: 26058 milisegundos
+Tiempo de ejecución WEBKIT: 35489 milisegundos
+Ejecución número 578:
+Tiempo de ejecución CHROMIUM: 23062 milisegundos
+Tiempo de ejecución WEBKIT: 34137 milisegundos
+Ejecución número 579:
+Tiempo de ejecución WEBKIT: 31005 milisegundos
+Ejecución número 580:
+Tiempo de ejecución WEBKIT: 29482 milisegundos
+Ejecución número 581:
+Tiempo de ejecución WEBKIT: 30560 milisegundos
+Ejecución número 582:
+Tiempo de ejecución CHROMIUM: 24094 milisegundos
+Tiempo de ejecución WEBKIT: 34576 milisegundos
+Ejecución número 583:
+Tiempo de ejecución WEBKIT: 31261 milisegundos
+Ejecución número 584:
+Tiempo de ejecución WEBKIT: 31601 milisegundos
+Ejecución número 585:
+Tiempo de ejecución WEBKIT: 30193 milisegundos
+Ejecución número 586:
+Tiempo de ejecución WEBKIT: 30787 milisegundos
+Ejecución número 587:
+Ejecución número 588:
+Tiempo de ejecución WEBKIT: 33774 milisegundos
+Ejecución número 589:
+Tiempo de ejecución WEBKIT: 32630 milisegundos
+Ejecución número 590:
+Tiempo de ejecución WEBKIT: 33118 milisegundos
+Ejecución número 591:
+Ejecución número 592:
+Tiempo de ejecución WEBKIT: 35197 milisegundos
+Ejecución número 593:
+Tiempo de ejecución WEBKIT: 29993 milisegundos
+Ejecución número 594:
+Tiempo de ejecución WEBKIT: 31833 milisegundos
+Ejecución número 595:
+Tiempo de ejecución WEBKIT: 31568 milisegundos
+Ejecución número 596:
+Tiempo de ejecución WEBKIT: 31794 milisegundos
+Ejecución número 597:
+Tiempo de ejecución CHROMIUM: 22081 milisegundos
+Ejecución número 598:
+Tiempo de ejecución WEBKIT: 32042 milisegundos
+Ejecución número 599:
+Tiempo de ejecución WEBKIT: 31140 milisegundos
+Ejecución número 600:
+Tiempo de ejecución WEBKIT: 32960 milisegundos
+Ejecución número 601:
+Tiempo de ejecución WEBKIT: 31826 milisegundos
+Ejecución número 602:
+Tiempo de ejecución WEBKIT: 32207 milisegundos
+Ejecución número 603:
+Tiempo de ejecución WEBKIT: 31863 milisegundos
+Ejecución número 604:
+Tiempo de ejecución WEBKIT: 32884 milisegundos
+Ejecución número 605:
+Tiempo de ejecución WEBKIT: 31052 milisegundos
+Ejecución número 606:
+Tiempo de ejecución WEBKIT: 31713 milisegundos
+Ejecución número 607:
+Tiempo de ejecución WEBKIT: 31527 milisegundos
+Ejecución número 608:
+Tiempo de ejecución WEBKIT: 30443 milisegundos
+Ejecución número 609:
+Tiempo de ejecución WEBKIT: 33026 milisegundos
+Ejecución número 610:
+Tiempo de ejecución WEBKIT: 34557 milisegundos
+Ejecución número 611:
+Tiempo de ejecución WEBKIT: 30456 milisegundos
+Ejecución número 612:
+Tiempo de ejecución WEBKIT: 29913 milisegundos
+Ejecución número 613:
+Ejecución número 614:
+Tiempo de ejecución WEBKIT: 34309 milisegundos
+Ejecución número 615:
+Tiempo de ejecución WEBKIT: 34259 milisegundos
+Ejecución número 616:
+Tiempo de ejecución WEBKIT: 29272 milisegundos
+Ejecución número 617:
+Tiempo de ejecución WEBKIT: 30003 milisegundos
+Ejecución número 618:
+Tiempo de ejecución WEBKIT: 30615 milisegundos
+Ejecución número 619:
+Ejecución número 620:
+Tiempo de ejecución WEBKIT: 34559 milisegundos
+Ejecución número 621:
+Tiempo de ejecución WEBKIT: 32116 milisegundos
+Ejecución número 622:
+Tiempo de ejecución WEBKIT: 32187 milisegundos
+Ejecución número 623:
+Tiempo de ejecución WEBKIT: 30969 milisegundos
+Ejecución número 624:
+Tiempo de ejecución WEBKIT: 32599 milisegundos
+Ejecución número 625:
+Tiempo de ejecución WEBKIT: 32646 milisegundos
+Ejecución número 626:
+Tiempo de ejecución WEBKIT: 31356 milisegundos
+Ejecución número 627:
+Tiempo de ejecución WEBKIT: 29730 milisegundos
+Ejecución número 628:
+Tiempo de ejecución WEBKIT: 31088 milisegundos
+Ejecución número 629:
+Tiempo de ejecución WEBKIT: 30687 milisegundos
+Ejecución número 630:
+Tiempo de ejecución WEBKIT: 29884 milisegundos
+Ejecución número 631:
+Tiempo de ejecución WEBKIT: 30804 milisegundos
+Ejecución número 632:
+Tiempo de ejecución WEBKIT: 32361 milisegundos
+Ejecución número 633:
+Tiempo de ejecución WEBKIT: 31992 milisegundos
+Ejecución número 634:
+Tiempo de ejecución WEBKIT: 30649 milisegundos
+Ejecución número 635:
+Tiempo de ejecución WEBKIT: 32251 milisegundos
+Ejecución número 636:
+Tiempo de ejecución CHROMIUM: 22127 milisegundos
+Tiempo de ejecución WEBKIT: 32111 milisegundos
+Ejecución número 637:
+Tiempo de ejecución WEBKIT: 34658 milisegundos
+Ejecución número 638:
+Tiempo de ejecución WEBKIT: 33335 milisegundos
+Ejecución número 639:
+Tiempo de ejecución WEBKIT: 30139 milisegundos
+Ejecución número 640:
+Tiempo de ejecución WEBKIT: 33094 milisegundos
+Ejecución número 641:
+Ejecución número 642:
+Tiempo de ejecución WEBKIT: 30593 milisegundos
+Ejecución número 643:
+Tiempo de ejecución WEBKIT: 32777 milisegundos
+Ejecución número 644:
+Tiempo de ejecución WEBKIT: 31556 milisegundos
+Ejecución número 645:
+Tiempo de ejecución WEBKIT: 30416 milisegundos
+Ejecución número 646:
+Tiempo de ejecución WEBKIT: 31434 milisegundos
+Ejecución número 647:
+Tiempo de ejecución WEBKIT: 33241 milisegundos
+Ejecución número 648:
+Tiempo de ejecución WEBKIT: 31143 milisegundos
+Ejecución número 649:
+Tiempo de ejecución WEBKIT: 33331 milisegundos
+Ejecución número 650:
+Tiempo de ejecución WEBKIT: 33025 milisegundos
+Ejecución número 651:
+Tiempo de ejecución WEBKIT: 31725 milisegundos
+Ejecución número 652:
+Tiempo de ejecución WEBKIT: 29985 milisegundos
+Ejecución número 653:
+Tiempo de ejecución WEBKIT: 31713 milisegundos
+Ejecución número 654:
+Tiempo de ejecución WEBKIT: 31428 milisegundos
+Ejecución número 655:
+Tiempo de ejecución WEBKIT: 31143 milisegundos
+Ejecución número 656:
+Tiempo de ejecución WEBKIT: 31203 milisegundos
+Ejecución número 657:
+Ejecución número 658:
+Tiempo de ejecución WEBKIT: 33119 milisegundos
+Ejecución número 659:
+Tiempo de ejecución WEBKIT: 35090 milisegundos
+Ejecución número 660:
+Tiempo de ejecución WEBKIT: 33441 milisegundos
+Ejecución número 661:
+Tiempo de ejecución WEBKIT: 35067 milisegundos
+Ejecución número 662:
+Ejecución número 663:
+Tiempo de ejecución WEBKIT: 33928 milisegundos
+Ejecución número 664:
+Ejecución número 665:
+Tiempo de ejecución WEBKIT: 32842 milisegundos
+Ejecución número 666:
+Ejecución número 667:
+Tiempo de ejecución WEBKIT: 30552 milisegundos
+Ejecución número 668:
+Ejecución número 669:
+Tiempo de ejecución WEBKIT: 31531 milisegundos
+Ejecución número 670:
+Tiempo de ejecución WEBKIT: 30007 milisegundos
+Ejecución número 671:
+Ejecución número 672:
+Tiempo de ejecución WEBKIT: 32141 milisegundos
+Ejecución número 673:
+Ejecución número 674:
+Tiempo de ejecución WEBKIT: 29824 milisegundos
+Ejecución número 675:
+Tiempo de ejecución WEBKIT: 29584 milisegundos
+Ejecución número 676:
+Tiempo de ejecución WEBKIT: 34878 milisegundos
+Ejecución número 677:
+Tiempo de ejecución WEBKIT: 32728 milisegundos
+Ejecución número 678:
+Tiempo de ejecución WEBKIT: 30273 milisegundos
+Ejecución número 679:
+Tiempo de ejecución WEBKIT: 31038 milisegundos
+Ejecución número 680:
+Tiempo de ejecución WEBKIT: 30778 milisegundos
+Ejecución número 681:
+Tiempo de ejecución WEBKIT: 31414 milisegundos
+Ejecución número 682:
+Tiempo de ejecución WEBKIT: 29863 milisegundos
+Ejecución número 683:
+Tiempo de ejecución CHROMIUM: 21846 milisegundos
+Tiempo de ejecución WEBKIT: 30730 milisegundos
+Ejecución número 684:
+Ejecución número 685:
+Tiempo de ejecución WEBKIT: 32514 milisegundos
+Ejecución número 686:
+Tiempo de ejecución WEBKIT: 32733 milisegundos
+Ejecución número 687:
+Tiempo de ejecución CHROMIUM: 24553 milisegundos
+Tiempo de ejecución WEBKIT: 34870 milisegundos
+Ejecución número 688:
+Tiempo de ejecución WEBKIT: 32231 milisegundos
+Ejecución número 689:
+Tiempo de ejecución WEBKIT: 30745 milisegundos
+Ejecución número 690:
+Tiempo de ejecución WEBKIT: 34233 milisegundos
+Ejecución número 691:
+Tiempo de ejecución CHROMIUM: 26814 milisegundos
+Tiempo de ejecución WEBKIT: 36932 milisegundos
+Ejecución número 692:
+Ejecución número 693:
+Tiempo de ejecución WEBKIT: 34194 milisegundos
+Ejecución número 694:
+Tiempo de ejecución WEBKIT: 34410 milisegundos
+Ejecución número 695:
+Tiempo de ejecución WEBKIT: 32185 milisegundos
+Ejecución número 696:
+Tiempo de ejecución WEBKIT: 31380 milisegundos
+Ejecución número 697:
+Tiempo de ejecución CHROMIUM: 23442 milisegundos
+Tiempo de ejecución WEBKIT: 33714 milisegundos
+Ejecución número 698:
+Tiempo de ejecución WEBKIT: 31737 milisegundos
+Ejecución número 699:
+Tiempo de ejecución WEBKIT: 31945 milisegundos
+Ejecución número 700:
+Tiempo de ejecución CHROMIUM: 25058 milisegundos
+Tiempo de ejecución WEBKIT: 36454 milisegundos
+Ejecución número 701:
+Tiempo de ejecución WEBKIT: 32184 milisegundos
+Ejecución número 702:
+Tiempo de ejecución WEBKIT: 30874 milisegundos
+Ejecución número 703:
+Ejecución número 704:
+Ejecución número 705:
+Tiempo de ejecución WEBKIT: 35066 milisegundos
+Ejecución número 706:
+Tiempo de ejecución WEBKIT: 32827 milisegundos
+Ejecución número 707:
+Tiempo de ejecución WEBKIT: 34572 milisegundos
+Ejecución número 708:
+Tiempo de ejecución WEBKIT: 33670 milisegundos
+Ejecución número 709:
+Ejecución número 710:
+Tiempo de ejecución WEBKIT: 33980 milisegundos
+Ejecución número 711:
+Tiempo de ejecución WEBKIT: 31894 milisegundos
+Ejecución número 712:
+Tiempo de ejecución WEBKIT: 34219 milisegundos
+Ejecución número 713:
+Tiempo de ejecución WEBKIT: 32029 milisegundos
+Ejecución número 714:
+Tiempo de ejecución WEBKIT: 32188 milisegundos
+Ejecución número 715:
+Tiempo de ejecución WEBKIT: 34702 milisegundos
+Ejecución número 716:
+Tiempo de ejecución WEBKIT: 35893 milisegundos
+Ejecución número 717:
+Tiempo de ejecución WEBKIT: 32227 milisegundos
+Ejecución número 718:
+Tiempo de ejecución WEBKIT: 35390 milisegundos
+Ejecución número 719:
+Ejecución número 720:
+Tiempo de ejecución WEBKIT: 30949 milisegundos
+Ejecución número 721:
+Tiempo de ejecución WEBKIT: 31105 milisegundos
+Ejecución número 722:
+Tiempo de ejecución CHROMIUM: 24186 milisegundos
+Tiempo de ejecución WEBKIT: 35529 milisegundos
+Ejecución número 723:
+Tiempo de ejecución WEBKIT: 31435 milisegundos
+Ejecución número 724:
+Tiempo de ejecución WEBKIT: 32543 milisegundos
+Ejecución número 725:
+Tiempo de ejecución WEBKIT: 32618 milisegundos
+Ejecución número 726:
+Tiempo de ejecución WEBKIT: 34320 milisegundos
+Ejecución número 727:
+Tiempo de ejecución WEBKIT: 30847 milisegundos
+Ejecución número 728:
+Tiempo de ejecución WEBKIT: 32412 milisegundos
+Ejecución número 729:
+Tiempo de ejecución WEBKIT: 34215 milisegundos
+Ejecución número 730:
+Tiempo de ejecución WEBKIT: 35135 milisegundos
+Ejecución número 731:
+Tiempo de ejecución WEBKIT: 34246 milisegundos
+Ejecución número 732:
+Ejecución número 733:
+Ejecución número 734:
+Tiempo de ejecución WEBKIT: 32296 milisegundos
+Ejecución número 735:
+Tiempo de ejecución WEBKIT: 35363 milisegundos
+Ejecución número 736:
+Tiempo de ejecución WEBKIT: 35631 milisegundos
+Ejecución número 737:
+Tiempo de ejecución WEBKIT: 30365 milisegundos
+Ejecución número 738:
+Tiempo de ejecución WEBKIT: 30309 milisegundos
+Ejecución número 739:
+Tiempo de ejecución WEBKIT: 31148 milisegundos
+Ejecución número 740:
+Tiempo de ejecución WEBKIT: 29879 milisegundos
+Ejecución número 741:
+Tiempo de ejecución WEBKIT: 31904 milisegundos
+Ejecución número 742:
+Tiempo de ejecución WEBKIT: 31985 milisegundos
+Ejecución número 743:
+Tiempo de ejecución CHROMIUM: 20652 milisegundos
+Tiempo de ejecución WEBKIT: 30796 milisegundos
+Ejecución número 744:
+Tiempo de ejecución WEBKIT: 30312 milisegundos
+Ejecución número 745:
+Tiempo de ejecución WEBKIT: 30846 milisegundos
+Ejecución número 746:
+Ejecución número 747:
+Tiempo de ejecución WEBKIT: 30947 milisegundos
+Ejecución número 748:
+Tiempo de ejecución WEBKIT: 32115 milisegundos
+Ejecución número 749:
+Tiempo de ejecución WEBKIT: 30337 milisegundos
+Ejecución número 750:
+Tiempo de ejecución WEBKIT: 31520 milisegundos
+Ejecución número 751:
+Tiempo de ejecución WEBKIT: 32524 milisegundos
+Ejecución número 752:
+Tiempo de ejecución WEBKIT: 31016 milisegundos
+Ejecución número 753:
+Tiempo de ejecución WEBKIT: 32129 milisegundos
+Ejecución número 754:
+Tiempo de ejecución WEBKIT: 31387 milisegundos
+Ejecución número 755:
+Tiempo de ejecución WEBKIT: 33081 milisegundos
+Ejecución número 756:
+Tiempo de ejecución WEBKIT: 33075 milisegundos
+Ejecución número 757:
+Tiempo de ejecución WEBKIT: 32485 milisegundos
+Ejecución número 758:
+Ejecución número 759:
+Tiempo de ejecución WEBKIT: 33263 milisegundos
+Ejecución número 760:
+Tiempo de ejecución WEBKIT: 37458 milisegundos
+Ejecución número 761:
+Tiempo de ejecución WEBKIT: 30419 milisegundos
+Ejecución número 762:
+Tiempo de ejecución WEBKIT: 32256 milisegundos
+Ejecución número 763:
+Tiempo de ejecución WEBKIT: 31943 milisegundos
+Ejecución número 764:
+Tiempo de ejecución WEBKIT: 31708 milisegundos
+Ejecución número 765:
+Tiempo de ejecución WEBKIT: 31478 milisegundos
+Ejecución número 766:
+Tiempo de ejecución WEBKIT: 31761 milisegundos
+Ejecución número 767:
+Tiempo de ejecución WEBKIT: 31225 milisegundos
+Ejecución número 768:
+Tiempo de ejecución WEBKIT: 33185 milisegundos
+Ejecución número 769:
+Tiempo de ejecución WEBKIT: 29650 milisegundos
+Ejecución número 770:
+Tiempo de ejecución WEBKIT: 33207 milisegundos
+Ejecución número 771:
+Tiempo de ejecución WEBKIT: 30571 milisegundos
+Ejecución número 772:
+Tiempo de ejecución WEBKIT: 33820 milisegundos
+Ejecución número 773:
+Tiempo de ejecución WEBKIT: 32684 milisegundos
+Ejecución número 774:
+Tiempo de ejecución WEBKIT: 32723 milisegundos
+Ejecución número 775:
+Tiempo de ejecución WEBKIT: 31852 milisegundos
+Ejecución número 776:
+Tiempo de ejecución WEBKIT: 32215 milisegundos
+Ejecución número 777:
+Tiempo de ejecución WEBKIT: 33080 milisegundos
+Ejecución número 778:
+Tiempo de ejecución WEBKIT: 32093 milisegundos
+Ejecución número 779:
+Tiempo de ejecución WEBKIT: 32938 milisegundos
+Ejecución número 780:
+Ejecución número 781:
+Tiempo de ejecución WEBKIT: 32662 milisegundos
+Ejecución número 782:
+Tiempo de ejecución WEBKIT: 30008 milisegundos
+Ejecución número 783:
+Tiempo de ejecución WEBKIT: 32085 milisegundos
+Ejecución número 784:
+Tiempo de ejecución WEBKIT: 29045 milisegundos
+Ejecución número 785:
+Tiempo de ejecución CHROMIUM: 20646 milisegundos
+Tiempo de ejecución WEBKIT: 31267 milisegundos
+Ejecución número 786:
+Tiempo de ejecución WEBKIT: 31870 milisegundos
+Ejecución número 787:
+Ejecución número 788:
+Tiempo de ejecución WEBKIT: 31777 milisegundos
+Ejecución número 789:
+Tiempo de ejecución WEBKIT: 31624 milisegundos
+Ejecución número 790:
+Tiempo de ejecución WEBKIT: 29658 milisegundos
+Ejecución número 791:
+Tiempo de ejecución WEBKIT: 32168 milisegundos
+Ejecución número 792:
+Tiempo de ejecución WEBKIT: 33355 milisegundos
+Ejecución número 793:
+Tiempo de ejecución WEBKIT: 31274 milisegundos
+Ejecución número 794:
+Tiempo de ejecución WEBKIT: 32481 milisegundos
+Ejecución número 795:
+Tiempo de ejecución WEBKIT: 31951 milisegundos
+Ejecución número 796:
+Tiempo de ejecución WEBKIT: 32866 milisegundos
+Ejecución número 797:
+Tiempo de ejecución WEBKIT: 30681 milisegundos
+Ejecución número 798:
+Tiempo de ejecución WEBKIT: 32396 milisegundos
+Ejecución número 799:
+Tiempo de ejecución WEBKIT: 34622 milisegundos
+Ejecución número 800:
+Tiempo de ejecución WEBKIT: 30978 milisegundos
+Ejecución número 801:
+Tiempo de ejecución WEBKIT: 29881 milisegundos
+Ejecución número 802:
+Tiempo de ejecución WEBKIT: 30965 milisegundos
+Ejecución número 803:
+Tiempo de ejecución WEBKIT: 31413 milisegundos
+Ejecución número 804:
+Tiempo de ejecución WEBKIT: 33208 milisegundos
+Ejecución número 805:
+Tiempo de ejecución WEBKIT: 30659 milisegundos
+Ejecución número 806:
+Ejecución número 807:
+Tiempo de ejecución WEBKIT: 31981 milisegundos
+Ejecución número 808:
+Tiempo de ejecución WEBKIT: 32533 milisegundos
+Ejecución número 809:
+Ejecución número 810:
+Tiempo de ejecución WEBKIT: 32195 milisegundos
+Ejecución número 811:
+Tiempo de ejecución WEBKIT: 31603 milisegundos
+Ejecución número 812:
+Ejecución número 813:
+Tiempo de ejecución WEBKIT: 31866 milisegundos
+Ejecución número 814:
+Tiempo de ejecución WEBKIT: 33126 milisegundos
+Ejecución número 815:
+Tiempo de ejecución WEBKIT: 30518 milisegundos
+Ejecución número 816:
+Tiempo de ejecución WEBKIT: 30100 milisegundos
+Ejecución número 817:
+Tiempo de ejecución WEBKIT: 32715 milisegundos
+Ejecución número 818:
+Tiempo de ejecución WEBKIT: 31749 milisegundos
+Ejecución número 819:
+Tiempo de ejecución WEBKIT: 31673 milisegundos
+Ejecución número 820:
+Tiempo de ejecución WEBKIT: 29496 milisegundos
+Ejecución número 821:
+Tiempo de ejecución WEBKIT: 32303 milisegundos
+Ejecución número 822:
+Tiempo de ejecución WEBKIT: 32093 milisegundos
+Ejecución número 823:
+Tiempo de ejecución WEBKIT: 29794 milisegundos
+Ejecución número 824:
+Tiempo de ejecución WEBKIT: 30837 milisegundos
+Ejecución número 825:
+Tiempo de ejecución WEBKIT: 29424 milisegundos
+Ejecución número 826:
+Tiempo de ejecución WEBKIT: 29876 milisegundos
+Ejecución número 827:
+Tiempo de ejecución WEBKIT: 32949 milisegundos
+Ejecución número 828:
+Tiempo de ejecución WEBKIT: 30656 milisegundos
+Ejecución número 829:
+Tiempo de ejecución WEBKIT: 31580 milisegundos
+Ejecución número 830:
+Tiempo de ejecución WEBKIT: 32737 milisegundos
+Ejecución número 831:
+Tiempo de ejecución WEBKIT: 30746 milisegundos
+Ejecución número 832:
+Tiempo de ejecución WEBKIT: 31376 milisegundos
+Ejecución número 833:
+Tiempo de ejecución WEBKIT: 31249 milisegundos
+Ejecución número 834:
+Tiempo de ejecución WEBKIT: 31117 milisegundos
+Ejecución número 835:
+Tiempo de ejecución WEBKIT: 29102 milisegundos
+Ejecución número 836:
+Tiempo de ejecución WEBKIT: 31611 milisegundos
+Ejecución número 837:
+Tiempo de ejecución WEBKIT: 28525 milisegundos
+Ejecución número 838:
+Tiempo de ejecución WEBKIT: 30798 milisegundos
+Ejecución número 839:
+Tiempo de ejecución WEBKIT: 30735 milisegundos
+Ejecución número 840:
+Tiempo de ejecución WEBKIT: 32754 milisegundos
+Ejecución número 841:
+Tiempo de ejecución WEBKIT: 31434 milisegundos
+Ejecución número 842:
+Tiempo de ejecución WEBKIT: 32778 milisegundos
+Ejecución número 843:
+Ejecución número 844:
+Tiempo de ejecución WEBKIT: 33119 milisegundos
+Ejecución número 845:
+Tiempo de ejecución WEBKIT: 29022 milisegundos
+Ejecución número 846:
+Tiempo de ejecución WEBKIT: 33554 milisegundos
+Ejecución número 847:
+Tiempo de ejecución WEBKIT: 32092 milisegundos
+Ejecución número 848:
+Tiempo de ejecución WEBKIT: 31929 milisegundos
+Ejecución número 849:
+Ejecución número 850:
+Tiempo de ejecución WEBKIT: 31472 milisegundos
+Ejecución número 851:
+Tiempo de ejecución WEBKIT: 30528 milisegundos
+Ejecución número 852:
+Tiempo de ejecución CHROMIUM: 24355 milisegundos
+Tiempo de ejecución WEBKIT: 33845 milisegundos
+Ejecución número 853:
+Tiempo de ejecución WEBKIT: 33420 milisegundos
+Ejecución número 854:
+Tiempo de ejecución WEBKIT: 29534 milisegundos
+Ejecución número 855:
+Tiempo de ejecución WEBKIT: 30886 milisegundos
+Ejecución número 856:
+Tiempo de ejecución WEBKIT: 30433 milisegundos
+Ejecución número 857:
+Tiempo de ejecución WEBKIT: 31915 milisegundos
+Ejecución número 858:
+Tiempo de ejecución CHROMIUM: 22365 milisegundos
+Tiempo de ejecución WEBKIT: 31267 milisegundos
+Ejecución número 859:
+Ejecución número 860:
+Tiempo de ejecución WEBKIT: 33611 milisegundos
+Ejecución número 861:
+Tiempo de ejecución WEBKIT: 32881 milisegundos
+Ejecución número 862:
+Tiempo de ejecución WEBKIT: 31932 milisegundos
+Ejecución número 863:
+Tiempo de ejecución WEBKIT: 31215 milisegundos
+Ejecución número 864:
+Tiempo de ejecución CHROMIUM: 24419 milisegundos
+Tiempo de ejecución WEBKIT: 33633 milisegundos
+Ejecución número 865:
+Tiempo de ejecución WEBKIT: 33044 milisegundos
+Ejecución número 866:
+Tiempo de ejecución WEBKIT: 32576 milisegundos
+Ejecución número 867:
+Tiempo de ejecución WEBKIT: 29348 milisegundos
+Ejecución número 868:
+Tiempo de ejecución WEBKIT: 33180 milisegundos
+Ejecución número 869:
+Tiempo de ejecución WEBKIT: 31848 milisegundos
+Ejecución número 870:
+Tiempo de ejecución WEBKIT: 31298 milisegundos
+Ejecución número 871:
+Tiempo de ejecución WEBKIT: 33098 milisegundos
+Ejecución número 872:
+Tiempo de ejecución WEBKIT: 29818 milisegundos
+Ejecución número 873:
+Tiempo de ejecución WEBKIT: 29714 milisegundos
+Ejecución número 874:
+Tiempo de ejecución WEBKIT: 32169 milisegundos
+Ejecución número 875:
+Tiempo de ejecución WEBKIT: 33112 milisegundos
+Ejecución número 876:
+Tiempo de ejecución CHROMIUM: 22980 milisegundos
+Tiempo de ejecución WEBKIT: 33452 milisegundos
+Ejecución número 877:
+Tiempo de ejecución WEBKIT: 32332 milisegundos
+Ejecución número 878:
+Tiempo de ejecución WEBKIT: 32318 milisegundos
+Ejecución número 879:
+Tiempo de ejecución WEBKIT: 33494 milisegundos
+Ejecución número 880:
+Tiempo de ejecución WEBKIT: 32106 milisegundos
+Ejecución número 881:
+Tiempo de ejecución WEBKIT: 31353 milisegundos
+Ejecución número 882:
+Tiempo de ejecución WEBKIT: 31707 milisegundos
+Ejecución número 883:
+Tiempo de ejecución WEBKIT: 31347 milisegundos
+Ejecución número 884:
+Ejecución número 885:
+Tiempo de ejecución WEBKIT: 31844 milisegundos
+Ejecución número 886:
+Tiempo de ejecución WEBKIT: 32387 milisegundos
+Ejecución número 887:
+Ejecución número 888:
+Tiempo de ejecución WEBKIT: 33446 milisegundos
+Ejecución número 889:
+Tiempo de ejecución WEBKIT: 33524 milisegundos
+Ejecución número 890:
+Tiempo de ejecución WEBKIT: 32809 milisegundos
+Ejecución número 891:
+Tiempo de ejecución WEBKIT: 30411 milisegundos
+Ejecución número 892:
+Tiempo de ejecución WEBKIT: 32082 milisegundos
+Ejecución número 893:
+Tiempo de ejecución WEBKIT: 31325 milisegundos
+Ejecución número 894:
+Tiempo de ejecución WEBKIT: 29951 milisegundos
+Ejecución número 895:
+Tiempo de ejecución WEBKIT: 31015 milisegundos
+Ejecución número 896:
+Tiempo de ejecución CHROMIUM: 22478 milisegundos
+Tiempo de ejecución WEBKIT: 34128 milisegundos
+Ejecución número 897:
+Tiempo de ejecución WEBKIT: 31293 milisegundos
+Ejecución número 898:
+Tiempo de ejecución WEBKIT: 30902 milisegundos
+Ejecución número 899:
+Tiempo de ejecución WEBKIT: 32552 milisegundos
+Ejecución número 900:
+Tiempo de ejecución WEBKIT: 29068 milisegundos
+Ejecución número 901:
+Tiempo de ejecución WEBKIT: 33460 milisegundos
+Ejecución número 902:
+Tiempo de ejecución WEBKIT: 30678 milisegundos
+Ejecución número 903:
+Tiempo de ejecución WEBKIT: 29988 milisegundos
+Ejecución número 904:
+Tiempo de ejecución CHROMIUM: 23140 milisegundos
+Tiempo de ejecución WEBKIT: 32981 milisegundos
+Ejecución número 905:
+Tiempo de ejecución WEBKIT: 33139 milisegundos
+Ejecución número 906:
+Tiempo de ejecución WEBKIT: 31409 milisegundos
+Ejecución número 907:
+Tiempo de ejecución WEBKIT: 33280 milisegundos
+Ejecución número 908:
+Tiempo de ejecución WEBKIT: 31062 milisegundos
+Ejecución número 909:
+Tiempo de ejecución WEBKIT: 30620 milisegundos
+Ejecución número 910:
+Tiempo de ejecución WEBKIT: 31943 milisegundos
+Ejecución número 911:
+Tiempo de ejecución WEBKIT: 32444 milisegundos
+Ejecución número 912:
+Tiempo de ejecución WEBKIT: 33154 milisegundos
+Ejecución número 913:
+Tiempo de ejecución WEBKIT: 31975 milisegundos
+Ejecución número 914:
+Tiempo de ejecución WEBKIT: 31549 milisegundos
+Ejecución número 915:
+Tiempo de ejecución WEBKIT: 30929 milisegundos
+Ejecución número 916:
+Tiempo de ejecución WEBKIT: 32681 milisegundos
+Ejecución número 917:
+Tiempo de ejecución WEBKIT: 29487 milisegundos
+Ejecución número 918:
+Tiempo de ejecución WEBKIT: 31521 milisegundos
+Ejecución número 919:
+Tiempo de ejecución WEBKIT: 33135 milisegundos
+Ejecución número 920:
+Tiempo de ejecución WEBKIT: 30225 milisegundos
+Ejecución número 921:
+Tiempo de ejecución WEBKIT: 32493 milisegundos
+Ejecución número 922:
+Tiempo de ejecución WEBKIT: 30645 milisegundos
+Ejecución número 923:
+Tiempo de ejecución WEBKIT: 32696 milisegundos
+Ejecución número 924:
+Tiempo de ejecución WEBKIT: 31993 milisegundos
+Ejecución número 925:
+Tiempo de ejecución WEBKIT: 31805 milisegundos
+Ejecución número 926:
+Tiempo de ejecución WEBKIT: 30759 milisegundos
+Ejecución número 927:
+Ejecución número 928:
+Ejecución número 929:
+Ejecución número 930:
+Ejecución número 931:
+Ejecución número 932:
+Tiempo de ejecución WEBKIT: 43759 milisegundos
+Ejecución número 933:
+Tiempo de ejecución WEBKIT: 32562 milisegundos
+Ejecución número 934:
+Ejecución número 935:
+Tiempo de ejecución WEBKIT: 31057 milisegundos
+Ejecución número 936:
+Tiempo de ejecución WEBKIT: 29336 milisegundos
+Ejecución número 937:
+Tiempo de ejecución WEBKIT: 31015 milisegundos
+Ejecución número 938:
+Tiempo de ejecución WEBKIT: 33522 milisegundos
+Ejecución número 939:
+Tiempo de ejecución WEBKIT: 30987 milisegundos
+Ejecución número 940:
+Tiempo de ejecución WEBKIT: 30380 milisegundos
+Ejecución número 941:
+Tiempo de ejecución WEBKIT: 32335 milisegundos
+Ejecución número 942:
+Tiempo de ejecución WEBKIT: 31377 milisegundos
+Ejecución número 943:
+Tiempo de ejecución CHROMIUM: 24186 milisegundos
+Ejecución número 944:
+Tiempo de ejecución WEBKIT: 30770 milisegundos
+Ejecución número 945:
+Tiempo de ejecución WEBKIT: 29941 milisegundos
+Ejecución número 946:
+Tiempo de ejecución CHROMIUM: 22513 milisegundos
+Tiempo de ejecución WEBKIT: 32062 milisegundos
+Ejecución número 947:
+Tiempo de ejecución WEBKIT: 32436 milisegundos
+Ejecución número 948:
+Ejecución número 949:
+Tiempo de ejecución WEBKIT: 31262 milisegundos
+Ejecución número 950:
+Tiempo de ejecución WEBKIT: 32465 milisegundos
+Ejecución número 951:
+Tiempo de ejecución WEBKIT: 32890 milisegundos
+Ejecución número 952:
+Tiempo de ejecución CHROMIUM: 23491 milisegundos
+Tiempo de ejecución WEBKIT: 33853 milisegundos
+Ejecución número 953:
+Tiempo de ejecución WEBKIT: 31626 milisegundos
+Ejecución número 954:
+Tiempo de ejecución WEBKIT: 30166 milisegundos
+Ejecución número 955:
+Tiempo de ejecución WEBKIT: 30296 milisegundos
+Ejecución número 956:
+Tiempo de ejecución WEBKIT: 32843 milisegundos
+Ejecución número 957:
+Tiempo de ejecución WEBKIT: 32138 milisegundos
+Ejecución número 958:
+Tiempo de ejecución WEBKIT: 32826 milisegundos
+Ejecución número 959:
+Tiempo de ejecución WEBKIT: 32215 milisegundos
+Ejecución número 960:
+Tiempo de ejecución WEBKIT: 31794 milisegundos
+Ejecución número 961:
+Tiempo de ejecución WEBKIT: 33446 milisegundos
+Ejecución número 962:
+Tiempo de ejecución WEBKIT: 33038 milisegundos
+Ejecución número 963:
+Tiempo de ejecución WEBKIT: 32711 milisegundos
+Ejecución número 964:
+Tiempo de ejecución WEBKIT: 31395 milisegundos
+Ejecución número 965:
+Ejecución número 966:
+Tiempo de ejecución WEBKIT: 31632 milisegundos
+Ejecución número 967:
+Ejecución número 968:
+Tiempo de ejecución WEBKIT: 31469 milisegundos
+Ejecución número 969:
+Tiempo de ejecución WEBKIT: 30359 milisegundos
+Ejecución número 970:
+Tiempo de ejecución WEBKIT: 31142 milisegundos
+Ejecución número 971:
+Tiempo de ejecución WEBKIT: 33174 milisegundos
+Ejecución número 972:
+Tiempo de ejecución WEBKIT: 31086 milisegundos
+Ejecución número 973:
+Tiempo de ejecución WEBKIT: 31015 milisegundos
+Ejecución número 974:
+Tiempo de ejecución WEBKIT: 30575 milisegundos
+Ejecución número 975:
+Tiempo de ejecución WEBKIT: 30095 milisegundos
+Ejecución número 976:
+Ejecución número 977:
+Tiempo de ejecución WEBKIT: 32257 milisegundos
+Ejecución número 978:
+Tiempo de ejecución WEBKIT: 32189 milisegundos
+Ejecución número 979:
+Tiempo de ejecución WEBKIT: 33037 milisegundos
+Ejecución número 980:
+Tiempo de ejecución WEBKIT: 28627 milisegundos
+Ejecución número 981:
+Tiempo de ejecución WEBKIT: 33659 milisegundos
+Ejecución número 982:
+Tiempo de ejecución WEBKIT: 32462 milisegundos
+Ejecución número 983:
+Tiempo de ejecución WEBKIT: 33464 milisegundos
+Ejecución número 984:
+Tiempo de ejecución WEBKIT: 31857 milisegundos
+Ejecución número 985:
+Tiempo de ejecución WEBKIT: 30883 milisegundos
+Ejecución número 986:
+Tiempo de ejecución WEBKIT: 32241 milisegundos
+Ejecución número 987:
+Tiempo de ejecución WEBKIT: 29968 milisegundos
+Ejecución número 988:
+Tiempo de ejecución WEBKIT: 28870 milisegundos
+Ejecución número 989:
+Ejecución número 990:
+Tiempo de ejecución WEBKIT: 29697 milisegundos
+Ejecución número 991:
+Tiempo de ejecución WEBKIT: 31608 milisegundos
+Ejecución número 992:
+Tiempo de ejecución WEBKIT: 30760 milisegundos
+Ejecución número 993:
+Tiempo de ejecución WEBKIT: 32870 milisegundos
+Ejecución número 994:
+Ejecución número 995:
+Tiempo de ejecución WEBKIT: 32049 milisegundos
+Ejecución número 996:
+Tiempo de ejecución WEBKIT: 31649 milisegundos
+Ejecución número 997:
+Tiempo de ejecución WEBKIT: 30856 milisegundos
+Ejecución número 998:
+Tiempo de ejecución CHROMIUM: 21787 milisegundos
+Tiempo de ejecución WEBKIT: 32293 milisegundos
+Ejecución número 999:
+Tiempo de ejecución WEBKIT: 33464 milisegundos
+Ejecución número 1000:
+Tiempo de ejecución WEBKIT: 32545 milisegundos

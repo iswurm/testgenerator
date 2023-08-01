@@ -23,35 +23,52 @@ public class Main {
     static Test2 test2 = new Test2();
     static TestCaballos testCaballos = new TestCaballos();
     static TestGatos testGatos = new TestGatos();
+    static TestGatosChromium testGatosChromium = new TestGatosChromium();
+    static TestGatosFirefox testGatosFirefox = new TestGatosFirefox();
     private static final Object lock = new Object();
 
     public static void main(String[] args) {
         // Creamos los hilos para cada método
-        Thread hiloPerros = new Thread(() -> {
-            String resultadoPerros = testPerros.ejecutar();
-            escribirEnArchivo("resultados.txt", resultadoPerros);
-        });
+        // Thread hiloPerros = new Thread(() -> {
+        //     String resultadoPerros = testPerros.ejecutar();
+        //     escribirEnArchivo("resultados.txt", resultadoPerros);
+        // });
 
-        Thread hiloCaballos = new Thread(() -> {
-            String resultadoCaballos = testCaballos.ejecutar();
-            escribirEnArchivo("resultados.txt", resultadoCaballos);
-        });
+        // Thread hiloCaballos = new Thread(() -> {
+        //     String resultadoCaballos = testCaballos.ejecutar();
+        //     escribirEnArchivo("resultados.txt", resultadoCaballos);
+        // });
 
         Thread hiloGatos = new Thread(() -> {
             String resultadoGatos = testGatos.ejecutar();
             escribirEnArchivo("resultados.txt", resultadoGatos);
+            System.out.print(resultadoGatos);
+        });
+        Thread hiloGatosChromium = new Thread(() -> {
+            String resultadoGatosChromium = testGatosChromium.ejecutar();
+            escribirEnArchivo("resultados.txt", resultadoGatosChromium);
+            System.out.print(resultadoGatosChromium);
+        });
+        Thread hiloGatosFirefox = new Thread(() -> {
+            String resultadoGatosFirefox = testGatosFirefox.ejecutar();
+            escribirEnArchivo("resultados.txt", resultadoGatosFirefox);
+            System.out.print(resultadoGatosFirefox);
         });
 
         // Iniciamos los hilos
-        hiloPerros.start();
-        hiloCaballos.start();
+        // hiloPerros.start();
+        // hiloCaballos.start();
         hiloGatos.start();
+        hiloGatosChromium.start();
+        hiloGatosFirefox.start();
 
         // Esperamos a que todos los hilos terminen antes de continuar
         try {
-            hiloPerros.join();
-            hiloCaballos.join();
+            // hiloPerros.join();
+            // hiloCaballos.join();
             hiloGatos.join();
+            hiloGatosChromium.join();
+            hiloGatosFirefox.join();
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
